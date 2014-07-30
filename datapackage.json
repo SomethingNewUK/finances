@@ -1,0 +1,64 @@
+{
+    "datapackage_version": "1.0-beta.7",
+    "name": "OpenHorsham Finances",
+    "licenses": [
+        {
+            "id": "odc-odbl",
+            "url": "http://opendatacommons.org/licenses/odbl/1.0/"
+        }
+    ],
+    "publishers": [
+        {
+            "name": "James Smith",
+            "web": "http://www.floppy.org.uk"
+        }
+    ],
+    "maintainers": [
+        {
+          "name": "James Smith",
+          "web": "http://www.floppy.org.uk"
+        }
+    ],
+    "resources": [
+        {
+            "path": "expenditure.csv",
+            "url": "http://openhorsham.org.uk/finances/expenditure.csv",
+            "dialect": {
+                "delimiter": ",",
+                "doublequote": false,
+                "lineterminator": "\r\n",
+                "quotechar": "\"",
+                "skipinitialspace": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "id": "supplier",
+                        "label": "Supplier",
+                        "type": "http://www.w3.org/2001/XMLSchema#string"
+                    },
+                    {
+                        "id": "supplier_url",
+                        "label": "Supplier URL",
+                        "type": "http://www.w3.org/2001/XMLSchema#anyURI"
+                    },
+                    {
+                        "id": "amount",
+                        "label": "Amount",
+                        "type": "http://www.w3.org/2001/XMLSchema#float"
+                    },
+                    {
+                        "id": "date",
+                        "label": "Date",
+                        "type": "http://www.w3.org/2001/XMLSchema#date"
+                    },
+                    {
+                        "id": "description",
+                        "label": "Description",
+                        "type": "http://www.w3.org/2001/XMLSchema#string"
+                    }
+                ]
+            }
+        }
+    ]
+}
