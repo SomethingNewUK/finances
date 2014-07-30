@@ -1,5 +1,5 @@
 {
-    "datapackage_version": "1.0-beta.7",
+    "datapackage_version": "1.0-beta.10",
     "name": "OpenHorsham Finances",
     "licenses": [
         {
@@ -33,28 +33,28 @@
             "schema": {
                 "fields": [
                     {
-                        "id": "supplier",
-                        "label": "Supplier",
+                        "name": "supplier",
+                        "title": "Supplier",
                         "type": "http://www.w3.org/2001/XMLSchema#string"
                     },
                     {
-                        "id": "supplier_url",
-                        "label": "Supplier URL",
+                        "name": "supplier_url",
+                        "title": "Supplier URL",
                         "type": "http://www.w3.org/2001/XMLSchema#anyURI"
                     },
                     {
-                        "id": "amount",
-                        "label": "Amount",
+                        "name": "amount",
+                        "title": "Amount",
                         "type": "http://www.w3.org/2001/XMLSchema#float"
                     },
                     {
-                        "id": "date",
-                        "label": "Date",
+                        "name": "date",
+                        "title": "Date",
                         "type": "http://www.w3.org/2001/XMLSchema#date"
                     },
                     {
-                        "id": "description",
-                        "label": "Description",
+                        "name": "description",
+                        "title": "Description",
                         "type": "http://www.w3.org/2001/XMLSchema#string"
                     }
                 ]
