@@ -28,7 +28,8 @@
                 "doublequote": false,
                 "lineterminator": "\n",
                 "quotechar": "\"",
-                "skipinitialspace": false
+                "skipinitialspace": false,
+                "header": true
             },
             "schema": {
                 "fields": [
