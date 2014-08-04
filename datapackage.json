@@ -67,6 +67,13 @@
                         "constraints" : {
                           "type": "http://www.w3.org/2001/XMLSchema#string"
                         }
+                    },
+                    {
+                        "name": "reference",
+                        "title": "Reference",
+                        "constraints" : {
+                          "type": "http://www.w3.org/2001/XMLSchema#string"
+                        }
                     }
                 ]
             }
