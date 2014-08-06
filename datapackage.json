@@ -97,6 +97,13 @@
                         }
                     },
                     {
+                        "name": "ec_category",
+                        "title": "Electoral Commission spending category",
+                        "constraints" : {
+                          "type": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    },
+                    {
                         "name": "transaction_reference",
                         "title": "Transaction reference",
                         "constraints" : {
