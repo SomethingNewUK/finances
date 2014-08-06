@@ -90,6 +90,13 @@
                         }
                     },
                     {
+                        "name": "unspsc_code",
+                        "title": "UNSPSC code",
+                        "constraints" : {
+                          "type": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    },
+                    {
                         "name": "transaction_reference",
                         "title": "Transaction reference",
                         "constraints" : {
