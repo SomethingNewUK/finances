@@ -48,8 +48,15 @@
                         }
                     },
                     {
-                        "name": "amount",
-                        "title": "Amount",
+                        "name": "total",
+                        "title": "Total",
+                        "constraints" : {
+                          "type": "http://www.w3.org/2001/XMLSchema#float"
+                        }
+                    },
+                    {
+                        "name": "vat",
+                        "title": "VAT paid",
                         "constraints" : {
                           "type": "http://www.w3.org/2001/XMLSchema#float"
                         }
