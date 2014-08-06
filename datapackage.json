@@ -34,6 +34,20 @@
             "schema": {
                 "fields": [
                     {
+                        "name": "buyer",
+                        "title": "Buyer",
+                        "constraints" : {
+                          "type": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    },
+                    {
+                        "name": "buyer_url",
+                        "title": "Buyer URL",
+                        "constraints" : {
+                          "type": "http://www.w3.org/2001/XMLSchema#anyURI"
+                        }
+                    },
+                    {
                         "name": "supplier",
                         "title": "Supplier",
                         "constraints" : {
