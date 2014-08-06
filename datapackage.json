@@ -37,7 +37,8 @@
                         "name": "buyer",
                         "title": "Buyer",
                         "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#string"
+                          "type": "http://www.w3.org/2001/XMLSchema#string",
+                          "required": true
                         }
                     },
                     {
@@ -51,35 +52,40 @@
                         "name": "supplier",
                         "title": "Supplier",
                         "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#string"
+                          "type": "http://www.w3.org/2001/XMLSchema#string",
+                          "required": true
                         }
                     },
                     {
                         "name": "supplier_url",
                         "title": "Supplier URL",
                         "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#anyURI"
+                          "type": "http://www.w3.org/2001/XMLSchema#anyURI",
+                          "required": true
                         }
                     },
                     {
                         "name": "total",
                         "title": "Total",
                         "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#float"
+                          "type": "http://www.w3.org/2001/XMLSchema#float",
+                          "required": true
                         }
                     },
                     {
                         "name": "vat",
                         "title": "VAT paid",
                         "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#float"
+                          "type": "http://www.w3.org/2001/XMLSchema#float",
+                          "required": true
                         }
                     },
                     {
                         "name": "date",
                         "title": "Date",
                         "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#date"
+                          "type": "http://www.w3.org/2001/XMLSchema#date",
+                          "required": true
                         }
                     },
                     {
@@ -93,7 +99,8 @@
                         "name": "unspsc_code",
                         "title": "UNSPSC code",
                         "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#string"
+                          "type": "http://www.w3.org/2001/XMLSchema#string",
+                          "required": true
                         }
                     },
                     {
