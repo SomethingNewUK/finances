@@ -1,4 +1,4 @@
-supplier,supplier_url,total,vat,date,description,reference
+supplier,supplier_url,total,vat,date,description,transaction_reference
 GANDI International,https://opencorporates.com/companies/lu/B173775,25.88,,2014-06-24,Domain registration,2014062400436
 "Facebook Ireland, Ltd.",https://opencorporates.com/companies/ie/462932,16.66,,2014-07-30,Facebook advertising,P631828266931186
 Ordnance Survey Leisure Ltd,https://opencorporates.com/companies/gb/06894550,16.99,,2014-08-03,Custom constituency map,300126978
