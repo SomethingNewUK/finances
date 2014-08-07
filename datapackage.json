@@ -65,8 +65,9 @@
                         }
                     },
                     {
-                        "name": "total",
-                        "title": "Total",
+                        "name": "total_paid",
+                        "title": "Total paid",
+                        "description": "Including VAT",
                         "constraints" : {
                           "type": "http://www.w3.org/2001/XMLSchema#float",
                           "required": true

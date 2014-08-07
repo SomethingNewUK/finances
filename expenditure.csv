@@ -1,4 +1,4 @@
-buyer,buyer_url,supplier,supplier_url,total,vat,date,description,unspsc_code,ec_category,transaction_reference
+buyer,buyer_url,supplier,supplier_url,total_paid,vat,date,description,unspsc_code,ec_category,transaction_reference
 James Smith,,GANDI International,https://opencorporates.com/companies/lu/B173775,25.88,3.38,2014-06-24,Domain registration,81112107,A,2014062400436
 James Smith,,"Facebook Ireland, Ltd.",https://opencorporates.com/companies/ie/462932,16.66,0.00,2014-07-30,Facebook advertising,82101603,A,P631828266931186
 James Smith,,Ordnance Survey Leisure Ltd,https://opencorporates.com/companies/gb/06894550,16.99,0.00,2014-08-03,Custom constituency map,60103407,F,300126978
