@@ -107,7 +107,7 @@
                     {
                         "name": "ec_category",
                         "title": "Electoral Commission spending category",
-                        "description": "Spending category A-F as defined in http://www.electoralcommission.org.uk/__data/assets/pdf_file/0013/107104/form-ce-by-election-ca.pdf"
+                        "description": "Spending category A-F as defined in http://www.electoralcommission.org.uk/__data/assets/pdf_file/0013/107104/form-ce-by-election-ca.pdf",
                         "constraints" : {
                           "type": "http://www.w3.org/2001/XMLSchema#string"
                         }
