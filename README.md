@@ -1,7 +1,7 @@
 finances
 ========
 
-Finance data for the Open Horsham campaign
+Finance data for [Something New](http://somethingnew.org.uk)
 
 ### Files
 
