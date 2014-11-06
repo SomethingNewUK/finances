@@ -22,6 +22,7 @@
     "resources": [
         {
             "path": "horsham/expenditure.csv",
+            "url": "https://somethingnewuk.github.io/finances/horsham/expenditure.csv",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
