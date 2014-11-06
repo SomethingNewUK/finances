@@ -21,8 +21,7 @@
     ],
     "resources": [
         {
-            "path": "expenditure.csv",
-            "url": "http://openhorsham.org.uk/finances/expenditure.csv",
+            "path": "horsham/expenditure.csv",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
