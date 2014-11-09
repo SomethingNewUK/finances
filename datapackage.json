@@ -31,96 +31,112 @@
                 "skipinitialspace": false,
                 "header": true
             },
-            "schema": {
-                "fields": [
-                    {
-                        "name": "buyer",
-                        "title": "Buyer",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#string",
-                          "required": true
-                        }
-                    },
-                    {
-                        "name": "buyer_url",
-                        "title": "Buyer URL",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#anyURI"
-                        }
-                    },
-                    {
-                        "name": "supplier",
-                        "title": "Supplier",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#string",
-                          "required": true
-                        }
-                    },
-                    {
-                        "name": "supplier_url",
-                        "title": "Supplier URL",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#anyURI",
-                          "required": true
-                        }
-                    },
-                    {
-                        "name": "total_paid",
-                        "title": "Total paid",
-                        "description": "Including VAT",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#float",
-                          "required": true
-                        }
-                    },
-                    {
-                        "name": "vat",
-                        "title": "VAT paid",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#float",
-                          "required": true
-                        }
-                    },
-                    {
-                        "name": "date",
-                        "title": "Date",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#date",
-                          "required": true
-                        }
-                    },
-                    {
-                        "name": "description",
-                        "title": "Description",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#string"
-                        }
-                    },
-                    {
-                        "name": "unspsc_code",
-                        "title": "UNSPSC code",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#string",
-                          "required": true
-                        }
-                    },
-                    {
-                        "name": "ec_category",
-                        "title": "Electoral Commission spending category",
-                        "description": "Spending category A-F as defined in http://www.electoralcommission.org.uk/__data/assets/pdf_file/0013/107104/form-ce-by-election-ca.pdf",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#string"
-                        }
-                    },
-                    {
-                        "name": "transaction_reference",
-                        "title": "Transaction reference",
-                        "constraints" : {
-                          "type": "http://www.w3.org/2001/XMLSchema#string"
-                        }
-                    }
-                ]
-            }
+            "schema": "expenditure"
+        },
+        {
+            "path": "national/expenditure.csv",
+            "url": "https://somethingnewuk.github.io/finances/national/expenditure.csv",
+            "dialect": {
+                "delimiter": ",",
+                "doublequote": false,
+                "lineterminator": "\n",
+                "quotechar": "\"",
+                "skipinitialspace": false,
+                "header": true
+            },
+            "schema": "expenditure"
         }
-    ]
+    ],
+    "schemas": {
+        "expenditure": {
+            "fields": [
+                {
+                    "name": "buyer",
+                    "title": "Buyer",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#string",
+                      "required": true
+                    }
+                },
+                {
+                    "name": "buyer_url",
+                    "title": "Buyer URL",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#anyURI"
+                    }
+                },
+                {
+                    "name": "supplier",
+                    "title": "Supplier",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#string",
+                      "required": true
+                    }
+                },
+                {
+                    "name": "supplier_url",
+                    "title": "Supplier URL",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "required": true
+                    }
+                },
+                {
+                    "name": "total_paid",
+                    "title": "Total paid",
+                    "description": "Including VAT",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#float",
+                      "required": true
+                    }
+                },
+                {
+                    "name": "vat",
+                    "title": "VAT paid",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#float",
+                      "required": true
+                    }
+                },
+                {
+                    "name": "date",
+                    "title": "Date",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#date",
+                      "required": true
+                    }
+                },
+                {
+                    "name": "description",
+                    "title": "Description",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#string"
+                    }
+                },
+                {
+                    "name": "unspsc_code",
+                    "title": "UNSPSC code",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#string",
+                      "required": true
+                    }
+                },
+                {
+                    "name": "ec_category",
+                    "title": "Electoral Commission spending category",
+                    "description": "Spending category A-F as defined in http://www.electoralcommission.org.uk/__data/assets/pdf_file/0013/107104/form-ce-by-election-ca.pdf",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#string"
+                    }
+                },
+                {
+                    "name": "transaction_reference",
+                    "title": "Transaction reference",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#string"
+                    }
+                }
+            ]
+        }
+    }
 }
