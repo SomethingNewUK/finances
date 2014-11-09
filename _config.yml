@@ -1,0 +1,7 @@
+data_source: data
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
