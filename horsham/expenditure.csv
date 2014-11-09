@@ -1,4 +1,12 @@
-buyer,buyer_url,supplier,supplier_url,total_paid,vat,date,description,unspsc_code,ec_category,transaction_reference
-James Smith,http://id.floppy.org.uk,GANDI International,https://opencorporates.com/companies/lu/B173775,25.88,3.38,2014-06-24,Domain registration,81112107,A,2014062400436
-James Smith,http://id.floppy.org.uk,"Facebook Ireland, Ltd.",https://opencorporates.com/companies/ie/462932,16.66,0.00,2014-07-30,Facebook advertising,82101603,A,P631828266931186
-James Smith,http://id.floppy.org.uk,Ordnance Survey Leisure Ltd,https://opencorporates.com/companies/gb/06894550,16.99,0.00,2014-08-03,Custom constituency map,60103407,F,300126978
+"buyer","buyer_url","supplier","supplier_url","total_paid","vat","date","description","unspsc_code","ec_category","transaction_reference"
+"James Smith","http://id.floppy.org.uk","GANDI International","https://opencorporates.com/companies/lu/B173775",25.88,3.38,2014-06-24,"Domain registration",81112107,"A",2014062400436
+"James Smith","http://id.floppy.org.uk","Facebook Ireland, Ltd.","https://opencorporates.com/companies/ie/462932",16.66,0,2014-07-30,"Facebook advertising",82101603,"A","631828266931186-763255"
+"James Smith","http://id.floppy.org.uk","Ordnance Survey Leisure Ltd","https://opencorporates.com/companies/gb/06894550",16.99,0,2014-08-03,"Custom constituency map",60103407,"F",300126978
+"James Smith","http://id.floppy.org.uk","Staples UK Limited","https://opencorporates.com/companies/gb/02759437",14.57,2.43,2014-08-05,"Stationery",14111509,"D",155034415
+"James Smith","http://id.floppy.org.uk","North Horsham Parish Council",,26.6,0,2014-10-07,"Room hire",90111600,"D",16117
+"James Smith","http://id.floppy.org.uk","Billingshurst Centre",,31,5.17,2014-10-14,"Room hire",90111600,"D",5631
+"James Smith","http://id.floppy.org.uk","Facebook Ireland, Ltd.","https://opencorporates.com/companies/ie/462932",1.21,0,2014-10-28,"Facebook advertising",82101603,"A","665400190240653-935666"
+"James Smith","http://id.floppy.org.uk","Balcombe Parish Rooms",,25,0,2014-10-28,"Room hire",90111600,"D",79
+"James Smith","http://id.floppy.org.uk","Facebook Ireland, Ltd.","https://opencorporates.com/companies/ie/462932",0.87,0,2014-11-04,"Facebook advertising",82101603,"A","656172467830100-950720"
+"James Smith","http://id.floppy.org.uk","TS Foundry Ltd","https://opencorporates.com/companies/gb/08738607",20.94,3.49,2014-11-06,"T-shirt printing",82121510,"A","4L915335LT357392U"
+"James Smith","http://id.floppy.org.uk","North Horsham Parish Council",,14.9,0,2014-11-11,"Room hire",90111600,"D",16356
