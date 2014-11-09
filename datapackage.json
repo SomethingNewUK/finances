@@ -21,7 +21,7 @@
     ],
     "resources": [
         {
-            "path": "horsham/expenditure.csv",
+            "path": "data/horsham/expenditure.csv",
             "url": "https://somethingnewuk.github.io/finances/horsham/expenditure.csv",
             "dialect": {
                 "delimiter": ",",
@@ -34,7 +34,7 @@
             "schema": "expenditure"
         },
         {
-            "path": "national/expenditure.csv",
+            "path": "data/national/expenditure.csv",
             "url": "https://somethingnewuk.github.io/finances/national/expenditure.csv",
             "dialect": {
                 "delimiter": ",",
