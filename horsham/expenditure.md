@@ -8,7 +8,7 @@
     <th>Description</th>
     <th>Total Paid</th>
   </tr>
-  {% for row in site.data.horsham.expenditure %}
+  {% for row in site.data.data.horsham.expenditure %}
     <tr>
       <td>{{row.date}}</td>
       <td><a href='{{row.buyer_url}}'>{{row.buyer}}</a></td>
