@@ -1,9 +1,18 @@
 ---
 ---
 
+<div class='well pull-right'>
+  <p>
+    <a class='btn btn-primary btn-block' href='datapackage.json'><i class='fa fa-cloud-download'></i> Download Datapackage</a>
+  </p><p>
+    <a class='btn btn-default btn-block' href='https://github.com/SomethingNewUK/finances'><i class='fa fa-github'></i> View on GitHub</a>
+  </p>
+</div>
+
 # Something New Finances
 
 This site lists finance data for Something New, all as Open Data. Pick an area below:
+
 
 <table class='table table-striped'>
   <tr>
@@ -18,46 +27,4 @@ This site lists finance data for Something New, all as Open Data. Pick an area b
   </tr>
 </table>
 
-
-## Expenditure schema
-
-<table class='table table-striped'>
-  <tr>
-    <th>
-      ID
-    </th>
-    <th>
-      Title
-    </th>
-    <th>
-      Description
-    </th>
-    <th>
-      Type
-    </th>
-    <th>
-      Required
-    </th>
-  </tr>
-  {% for field in site.data.datapackage.schemas.expenditure.fields %}
-    <tr>
-      <td>
-        {{field.name}}
-      </td>
-      <td>
-        {{field.title}}
-      </td>
-      <td>
-        {{field.description}}
-      </td>
-      <td>
-        {{field.constraints.type | split:'#' | last }}
-      </td>
-      <td>
-        {{field.constraints.required}}
-      </td>
-    </tr>
-  {% endfor %}
-</table>
-
-<a class='btn btn-primary' href='datapackage.json'><i class='fa fa-cloud-download'></i> Download Datapackage JSON</a>
+{% include schemas.html %}
