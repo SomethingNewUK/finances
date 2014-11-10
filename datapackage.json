@@ -82,9 +82,26 @@
                     }
                 },
                 {
+                    "name": "currency",
+                    "title": "Currency",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#string",
+                      "required": true
+                    }
+                },
+                {
+                    "name": "total_charged",
+                    "title": "Total charged",
+                    "description": "In original currency, including taxes",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#float",
+                      "required": false
+                    }
+                },
+                {
                     "name": "total_paid",
                     "title": "Total paid",
-                    "description": "Including VAT",
+                    "description": "In GBP, including VAT",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#float",
                       "required": true
