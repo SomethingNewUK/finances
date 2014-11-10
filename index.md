@@ -59,3 +59,5 @@ This site lists finance data for Something New, all as Open Data. Pick an area b
     </tr>
   {% endfor %}
 </table>
+
+<a class='btn btn-primary' href='datapackage.json'><i class='fa fa-cloud-download'></i> Download Datapackage JSON</a>
