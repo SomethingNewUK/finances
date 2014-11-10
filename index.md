@@ -8,10 +8,10 @@ This site lists finance data for Something New, all as Open Data. Pick an area b
 <table class='table table-striped'>
   <tr>
     <td>National</td>
-    <td><a href='data/national/expenditure.html'>Expenditure</a></td>
+    <td><a href='national/expenditure.html'>Expenditure</a></td>
   </tr>
   <tr>
     <td>Horsham</td>
-    <td><a href='data/horsham/expenditure.html'>Expenditure</a></td>
+    <td><a href='horsham/expenditure.html'>Expenditure</a></td>
   </tr>
 </table>
