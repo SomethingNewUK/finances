@@ -53,6 +53,7 @@
                 {
                     "name": "buyer",
                     "title": "Buyer",
+                    "description": "Who paid for the transaction; payments made by individuals are considered loans to be reimbursed by the party",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#string",
                       "required": true
@@ -61,6 +62,7 @@
                 {
                     "name": "buyer_uri",
                     "title": "Buyer URI",
+                    "description": "URI to uniquely identify the buyer",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#anyURI"
                     }
@@ -68,6 +70,7 @@
                 {
                     "name": "supplier",
                     "title": "Supplier",
+                    "description": "The supplier of the product or service",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#string",
                       "required": true
@@ -76,6 +79,7 @@
                 {
                     "name": "supplier_uri",
                     "title": "Supplier URI",
+                    "description": "URI to uniquely identify the supplier",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#anyURI",
                       "required": true
@@ -84,6 +88,7 @@
                 {
                     "name": "currency",
                     "title": "Currency",
+                    "description": "ISO 4217 currency code",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#string",
                       "required": true
@@ -110,6 +115,7 @@
                 {
                     "name": "vat",
                     "title": "VAT paid",
+                    "description": "Amount of VAT paid",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#float",
                       "required": true
@@ -118,6 +124,7 @@
                 {
                     "name": "date",
                     "title": "Date",
+                    "description": "The date the cost was incurred, not when it was paid",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#date",
                       "required": true
@@ -133,6 +140,7 @@
                 {
                     "name": "unspsc_code",
                     "title": "UNSPSC code",
+                    "description": "United Nations Standard Products and Services Code - http://www.unspsc.org/",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#string",
                       "required": true
@@ -149,6 +157,7 @@
                 {
                     "name": "transaction_reference",
                     "title": "Transaction reference",
+                    "description": "Supplier's invoice number or ID",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#string"
                     }
