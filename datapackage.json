@@ -64,7 +64,8 @@
                     "title": "Buyer URI",
                     "description": "URI to uniquely identify the buyer",
                     "constraints" : {
-                      "type": "http://www.w3.org/2001/XMLSchema#anyURI"
+                      "type": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "required": false
                     }
                 },
                 {
@@ -82,7 +83,7 @@
                     "description": "URI to uniquely identify the supplier",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#anyURI",
-                      "required": true
+                      "required": false
                     }
                 },
                 {
@@ -134,7 +135,8 @@
                     "name": "description",
                     "title": "Description",
                     "constraints" : {
-                      "type": "http://www.w3.org/2001/XMLSchema#string"
+                      "type": "http://www.w3.org/2001/XMLSchema#string",
+                      "required": false
                     }
                 },
                 {
@@ -151,7 +153,8 @@
                     "title": "Electoral Commission spending category",
                     "description": "Spending category A-F as defined in http://www.electoralcommission.org.uk/__data/assets/pdf_file/0013/107104/form-ce-by-election-ca.pdf",
                     "constraints" : {
-                      "type": "http://www.w3.org/2001/XMLSchema#string"
+                      "type": "http://www.w3.org/2001/XMLSchema#string",
+                      "required": false
                     }
                 },
                 {
@@ -159,7 +162,8 @@
                     "title": "Transaction reference",
                     "description": "Supplier's invoice number or ID",
                     "constraints" : {
-                      "type": "http://www.w3.org/2001/XMLSchema#string"
+                      "type": "http://www.w3.org/2001/XMLSchema#string",
+                      "required": false
                     }
                 }
             ]
