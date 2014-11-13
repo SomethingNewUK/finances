@@ -6,6 +6,8 @@
     <a class='btn btn-primary btn-block' href='datapackage.json'><i class='fa fa-cloud-download'></i> Download Datapackage</a>
   </p><p>
     <a class='btn btn-default btn-block' href='https://github.com/SomethingNewUK/finances'><i class='fa fa-github'></i> View on GitHub</a>
+  </p><p>
+    <script src='https://certificates.theodi.org/datasets/2254/certificates/14550/badge.js'></script>
   </p>
 </div>
 
