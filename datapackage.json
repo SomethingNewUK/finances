@@ -59,8 +59,8 @@
                     }
                 },
                 {
-                    "name": "buyer_url",
-                    "title": "Buyer URL",
+                    "name": "buyer_uri",
+                    "title": "Buyer URI",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#anyURI"
                     }
@@ -74,8 +74,8 @@
                     }
                 },
                 {
-                    "name": "supplier_url",
-                    "title": "Supplier URL",
+                    "name": "supplier_uri",
+                    "title": "Supplier URI",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#anyURI",
                       "required": true

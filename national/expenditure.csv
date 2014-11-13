@@ -1,4 +1,4 @@
-"buyer","buyer_url","supplier","supplier_url","currency","total_charged","total_paid","vat","date","description","unspsc_code","ec_category","transaction_reference"
+"buyer","buyer_uri","supplier","supplier_uri","currency","total_charged","total_paid","vat","date","description","unspsc_code","ec_category","transaction_reference"
 "Alex Hilton",,"NationBuilder",,"USD",52,,0,2014-09-04,"Nationbuilder subscription",81112105,"F",106863
 "Alex Hilton",,"Electoral Commission",,"GBP",,150,0,2014-10-01,"Party registration",93111602,"F",
 "Alex Hilton",,"NationBuilder",,"USD",66,,0,2014-10-04,"Nationbuilder subscription",81112105,"F",114569

@@ -11,8 +11,8 @@
   {% for row in site.data.horsham.expenditure %}
     <tr>
       <td>{{row.date}}</td>
-      <td><a href='{{row.buyer_url}}'>{{row.buyer}}</a></td>
-      <td><a href='{{row.supplier_url}}'>{{row.supplier}}</a></td>
+      <td><a href='{{row.buyer_uri}}'>{{row.buyer}}</a></td>
+      <td><a href='{{row.supplier_uri}}'>{{row.supplier}}</a></td>
       <td><a href='http://www.unspsc.org/search-code/default.aspx?CSS={{row.unspsc_code}}'>{{row.description}}</a></td>
       <td>£{{row.total_paid}}</td>
     </tr>
