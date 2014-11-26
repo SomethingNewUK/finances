@@ -1,0 +1,36 @@
+<table class='table table-striped'>
+  
+  <tr>
+    <td>
+      License:
+    </td>
+    <td>
+      {% for license in site.data.datapackage.licenses %}
+        <a href='{{license.url}}'>{{license.name}}</a>
+      {% endfor %}
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      Publisher:
+    </td>
+    <td>
+      {% for publisher in site.data.datapackage.publishers %}
+        <a href='{{publisher.url}}'>{{publisher.name}}</a>
+      {% endfor %}
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      Maintainer:
+    </td>
+    <td>
+      {% for maintainer in site.data.datapackage.maintainers %}
+        <a href='{{maintainer.url}}'>{{maintainer.name}}</a>
+      {% endfor %}
+    </td>
+  </tr>
+  
+</table>

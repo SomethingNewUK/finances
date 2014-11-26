@@ -1,5 +1,7 @@
 {
-    "name": "Something New Finances",
+    "name": "something-new-finances",
+    "title": "Something New Finances",
+    "description": "This dataset contains financial data for Something New, as machine-readable Open Data.",
     "licenses": [
       {
         "id": "CC-BY-4.0",
@@ -9,8 +11,8 @@
     ],
     "publishers": [
         {
-            "name": "James Smith",
-            "web": "http://www.floppy.org.uk"
+            "name": "Something New",
+            "web": "http://somethingnew.org.uk"
         }
     ],
     "maintainers": [
