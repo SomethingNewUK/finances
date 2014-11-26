@@ -28,6 +28,7 @@
         {
             "path": "horsham/expenditure.csv",
             "url": "https://somethingnewuk.github.io/finances/horsham/expenditure.csv",
+            "name": "Horsham",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
@@ -47,6 +48,7 @@
         {
             "path": "national/expenditure.csv",
             "url": "https://somethingnewuk.github.io/finances/national/expenditure.csv",
+            "name": "National",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
