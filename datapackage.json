@@ -1,5 +1,4 @@
 {
-    "datapackage_version": "1.0-beta.10",
     "name": "Something New Finances",
     "licenses": [
         {
@@ -19,6 +18,12 @@
           "web": "http://www.floppy.org.uk"
         }
     ],
+    "links": [
+        {
+          "name": "Open Data Certificate",
+          "url": "https://certificates.theodi.org/datasets/2254/certificates/14550"
+        }
+    ],
     "resources": [
         {
             "path": "horsham/expenditure.csv",
@@ -31,7 +36,13 @@
                 "skipinitialspace": false,
                 "header": true
             },
-            "schema": "expenditure"
+            "schema": "expenditure",
+            "links": [
+              {
+                "url": "http://csvlint.io/validation/545c0a1363737645490a0000",
+                "description": "CSV Validation"
+              }
+            ]
         },
         {
             "path": "national/expenditure.csv",
@@ -44,7 +55,13 @@
                 "skipinitialspace": false,
                 "header": true
             },
-            "schema": "expenditure"
+            "schema": "expenditure",
+            "links": [
+              {
+                "url": "http://csvlint.io/validation/5460195963737674e3010000",
+                "description": "CSV Validation"
+              }
+            ]
         }
     ],
     "schemas": {
