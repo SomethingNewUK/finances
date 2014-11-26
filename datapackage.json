@@ -40,7 +40,7 @@
             "links": [
               {
                 "name": "CSV Validation",
-                "url": "http://csvlint.io/validation/545c0a1363737645490a0000",
+                "url": "http://csvlint.io/validation/545c0a1363737645490a0000"
               }
             ]
         },
@@ -59,7 +59,7 @@
             "links": [
               {
                 "name": "CSV Validation",
-                "url": "http://csvlint.io/validation/5460195963737674e3010000",
+                "url": "http://csvlint.io/validation/5460195963737674e3010000"
               }
             ]
         }
