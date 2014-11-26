@@ -22,8 +22,12 @@
         {
           "name": "Open Data Certificate",
           "url": "https://certificates.theodi.org/datasets/2254/certificates/14550"
+        },
+        {
+          "name": "GitHub repository",
+          "url": "https://github.com/somethingnewuk/finances"
         }
-    ],
+      ],
     "resources": [
         {
             "path": "horsham/expenditure.csv",
