@@ -1,3 +1,9 @@
+{% assign path = page.path | split:"." | first | split:"/" %}
+{% assign path0 = path[0] %}
+{% assign path1 = path[1] %}
+
+{% assign data_table = site.data[path0][path1] %}
+
 <table class='table table-striped'>
   <tr>
     <th>Date</th>
