@@ -39,8 +39,8 @@
             "schema": "expenditure",
             "links": [
               {
+                "name": "CSV Validation",
                 "url": "http://csvlint.io/validation/545c0a1363737645490a0000",
-                "description": "CSV Validation"
               }
             ]
         },
@@ -58,8 +58,8 @@
             "schema": "expenditure",
             "links": [
               {
+                "name": "CSV Validation",
                 "url": "http://csvlint.io/validation/5460195963737674e3010000",
-                "description": "CSV Validation"
               }
             ]
         }
