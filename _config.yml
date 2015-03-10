@@ -1,3 +1,6 @@
+github:
+  repo: "SomethingNewUK/finances"
+  branch: "gh-pages"
 data_source: .
 defaults:
   -
