@@ -66,6 +66,10 @@
             },
             "schema": "donations",
             "links": [
+              {
+                "name": "CSV Validation",
+                "url": "http://csvlint.io/validation/553e22c16373763b60190000"
+              }
             ]
         },
         {
@@ -82,6 +86,10 @@
             },
             "schema": "expenditure",
             "links": [
+              {
+                "name": "CSV Validation",
+                "url": "http://csvlint.io/validation/553e230763737667c6000000"
+              }
             ]
         },
         {
