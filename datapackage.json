@@ -35,7 +35,7 @@
         {
             "path": "horsham/expenditure.csv",
             "url": "https://somethingnewuk.github.io/finances/horsham/expenditure.csv",
-            "name": "Horsham",
+            "name": "Horsham Expenditure",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
@@ -53,9 +53,25 @@
             ]
         },
         {
+            "path": "horsham/donations.csv",
+            "url": "https://somethingnewuk.github.io/finances/horsham/donations.csv",
+            "name": "Horsham Donations",
+            "dialect": {
+                "delimiter": ",",
+                "doublequote": false,
+                "lineterminator": "\n",
+                "quotechar": "\"",
+                "skipinitialspace": false,
+                "header": true
+            },
+            "schema": "donations",
+            "links": [
+            ]
+        },
+        {
             "path": "swsurrey/expenditure.csv",
             "url": "https://somethingnewuk.github.io/finances/swsurrey/expenditure.csv",
-            "name": "South West Surrey",
+            "name": "South West Surrey Expenditure",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
@@ -66,16 +82,12 @@
             },
             "schema": "expenditure",
             "links": [
-              {
-                "name": "CSV Validation",
-                "url": ""
-              }
             ]
         },
         {
             "path": "national/expenditure.csv",
             "url": "https://somethingnewuk.github.io/finances/national/expenditure.csv",
-            "name": "National",
+            "name": "National Expenditure",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
@@ -210,6 +222,36 @@
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#string",
                       "required": false
+                    }
+                }
+            ]
+        },
+        "donations": {
+            "fields": [
+                {
+                    "name": "name",
+                    "title": "Donor name",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#string",
+                      "required": true
+                    }
+                },
+                {
+                    "name": "amount",
+                    "title": "Amount donated",
+                    "description": "In GBP",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#float",
+                      "required": true
+                    }
+                },
+                {
+                    "name": "date",
+                    "title": "Date",
+                    "description": "The date the cost was incurred, not when it was paid",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#date",
+                      "required": true
                     }
                 }
             ]
