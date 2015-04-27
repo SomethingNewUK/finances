@@ -9,7 +9,11 @@ layout: default
 {% assign path1 = path[1] %}
 {% assign data_table = site.data[path0][path1] %}
 
-{% assign resource = site.data.datapackage.resources | find:"path",resource_path | first %}
+{% for r in site.data.datapackage.resources %}
+  {% if r.path == resource_path %}
+    {% assign resource = r %}
+  {% endif %}
+{% endfor %}
 
 <nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
@@ -23,7 +27,11 @@ layout: default
 
 <h1>{{ resource.name }}</h1>
 
-{% include data_table.html %}
+{% if resource.schema == "expenditure" %}
+  {% include expenditure.html %}
+{% else if resource.schema == "donations" %}
+  {% include donations.html %}
+{% endif %}
 
 {% assign csvlint = resource.links | where:"name","CSV Validation" | first %}
 <div class='pull-right'>
