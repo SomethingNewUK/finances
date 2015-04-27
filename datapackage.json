@@ -53,6 +53,26 @@
             ]
         },
         {
+            "path": "swsurrey/expenditure.csv",
+            "url": "https://somethingnewuk.github.io/finances/swsurrey/expenditure.csv",
+            "name": "South West Surrey",
+            "dialect": {
+                "delimiter": ",",
+                "doublequote": false,
+                "lineterminator": "\n",
+                "quotechar": "\"",
+                "skipinitialspace": false,
+                "header": true
+            },
+            "schema": "expenditure",
+            "links": [
+              {
+                "name": "CSV Validation",
+                "url": ""
+              }
+            ]
+        },
+        {
             "path": "national/expenditure.csv",
             "url": "https://somethingnewuk.github.io/finances/national/expenditure.csv",
             "name": "National",
