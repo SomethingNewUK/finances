@@ -93,6 +93,26 @@
             ]
         },
         {
+            "path": "swsurrey/donations.csv",
+            "url": "https://somethingnewuk.github.io/finances/swsurrey/donations.csv",
+            "name": "South West Surrey Donations",
+            "dialect": {
+                "delimiter": ",",
+                "doublequote": false,
+                "lineterminator": "\n",
+                "quotechar": "\"",
+                "skipinitialspace": false,
+                "header": true
+            },
+            "schema": "donations",
+            "links": [
+              {
+                "name": "CSV Validation",
+                "url": "http://csvlint.io/validation/553fddf963737641d60b0000"
+              }
+            ]
+        },
+        {
             "path": "national/expenditure.csv",
             "url": "https://somethingnewuk.github.io/finances/national/expenditure.csv",
             "name": "National Expenditure",
