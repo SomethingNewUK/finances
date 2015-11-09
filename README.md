@@ -1,3 +1,3 @@
 # Something New Finances
 
-See [http://somethingnew.github.io/finances]().
+See [http://somethingnew.org.uk/about/finances]().
