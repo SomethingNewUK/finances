@@ -5,4 +5,5 @@ branches:
   only:
     - gh-pages
 script:
+  - gem install cid
   - cid validate
