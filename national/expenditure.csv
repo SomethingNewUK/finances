@@ -1,30 +1,35 @@
-"buyer","buyer_uri","supplier","supplier_uri","currency","total_charged","total_paid","vat","date","description","unspsc_code","ec_category","transaction_reference"
-"Alex Hilton","","NationBuilder","","USD","52","32.88","0","2014-09-04","Nationbuilder subscription","81112105","F","106863"
-"Alex Hilton","","Electoral Commission","","GBP","","150","0","2014-10-01","Party registration","93111602","F",""
-"Alex Hilton","","NationBuilder","","USD","66","41.74","0","2014-10-04","Nationbuilder subscription","81112105","F","114569"
-"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","66","41.74","0","2014-11-04","Nationbuilder subscription","81112105","F","122617"
-"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","66","42.2","0","2014-12-04","Nationbuilder subscription","81112105","F","130461"
-"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","80","51.91","0","2015-01-04","Nationbuilder subscription","81112105","F","136826"
-"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","80","53.05","0","2015-02-04","Nationbuilder subscription","81112105","F","144493"
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-02-24","Soundcloud Pro subscription","81112105","F","21651a08bc0511e49fc20cc47a121262"
-"James Smith","http://id.floppy.org.uk","PostLayer","","USD","15","10.04","0","2015-02-26","Email spam filtering","81161600","F","423352"
-"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","85","55.48","0","2015-03-04","Nationbuilder subscription","81112105","F","153863"
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-03-25","Soundcloud Pro subscription","81112105","F","bc63df9ed39811e4bef40cc47a121748"
-"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","85","57.57","0","2015-04-04","Nationbuilder subscription","81112105","F","162345"
-"James Smith","http://id.floppy.org.uk","GANDI International","https://opencorporates.com/companies/lu/B173775","GBP","","31.80","5.30","2015-04-11","Domain registration","81112107","A","2015041100258"
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-04-25","Soundcloud Pro subscription","81112105","F","b6ede230eb2b11e48e800cc47a13206e"
-"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","58","38.44","0","2015-05-05","Nationbuilder subscription","81112105","F","170930"
-"James Smith","http://id.floppy.org.uk","PostLayer","","USD","12.25","7.84","0","2015-05-13","Email spam filtering","81161600","F",""
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-05-25","Soundcloud Pro subscription","81112105","F","ad0eb3e802be11e5a74b002590ed1bf4"
-"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","58","38.00","0","2015-06-04","Nationbuilder subscription","81112105","F","179599"
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-06-24","Soundcloud Pro subscription","81112105","F","a884e07c1a5111e59c34002590ed1556"
-"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","58","37.21","0","2015-07-04","Nationbuilder subscription","81112105","F","188289"
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-07-24","Soundcloud Pro subscription","81112105","F","a31bce3431e411e5a3460cc47a206942"
-"Paul Robinson","","Meetup","https://opencorporates.com/companies/us_ny/2855085","USD","59.94","","0","2015-08-16","Meetup organiser dues","","F","35735221"
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-08-23","Soundcloud Pro subscription","81112105","F","9df7ccc8497711e58a1e0cc47a131e1e"
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-09-22","Soundcloud Pro subscription","81112105","F","97ba7bf8610a11e5a25b0cc47a131f9a"
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-10-22","Soundcloud Pro subscription","81112105","F","8af4b5f0789d11e5b35f0cc47a205fdc"
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-11-21","Soundcloud Pro subscription","81112105","F","83d4c1a2903011e58f1a002590ed1554"
-"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-12-21","Soundcloud Pro subscription","81112105","F","7fceb0fea7c311e5a9b60cc47a152e76"
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+"buyer","buyer_uri","supplier","supplier_uri","currency","total_charged","total_paid","vat","date","description","unspsc_code","ec_category","transaction_reference",,
+"Alex Hilton","","NationBuilder","","USD","52","32.88","0","2014-09-04","Nationbuilder subscription","81112105","F","106863",,
+"Alex Hilton","","Electoral Commission","","GBP","","150","0","2014-10-01","Party registration","93111602","F","",,
+"Alex Hilton","","NationBuilder","","USD","66","41.74","0","2014-10-04","Nationbuilder subscription","81112105","F","114569",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","66","41.74","0","2014-11-04","Nationbuilder subscription","81112105","F","122617",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","66","42.2","0","2014-12-04","Nationbuilder subscription","81112105","F","130461",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","80","51.91","0","2015-01-04","Nationbuilder subscription","81112105","F","136826",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","80","53.05","0","2015-02-04","Nationbuilder subscription","81112105","F","144493",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-02-24","Soundcloud Pro subscription","81112105","F","21651a08bc0511e49fc20cc47a121262",,
+"James Smith","http://id.floppy.org.uk","PostLayer","","USD","15","10.04","0","2015-02-26","Email spam filtering","81161600","F","423352",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","85","55.48","0","2015-03-04","Nationbuilder subscription","81112105","F","153863",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-03-25","Soundcloud Pro subscription","81112105","F","bc63df9ed39811e4bef40cc47a121748",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","85","57.57","0","2015-04-04","Nationbuilder subscription","81112105","F","162345",,
+"James Smith","http://id.floppy.org.uk","GANDI International","https://opencorporates.com/companies/lu/B173775","GBP","","31.80","5.30","2015-04-11","Domain registration","81112107","A","2015041100258",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-04-25","Soundcloud Pro subscription","81112105","F","b6ede230eb2b11e48e800cc47a13206e",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","58","38.44","0","2015-05-05","Nationbuilder subscription","81112105","F","170930",,
+"James Smith","http://id.floppy.org.uk","PostLayer","","USD","12.25","7.84","0","2015-05-13","Email spam filtering","81161600","F","",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-05-25","Soundcloud Pro subscription","81112105","F","ad0eb3e802be11e5a74b002590ed1bf4",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","58","38.00","0","2015-06-04","Nationbuilder subscription","81112105","F","179599",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-06-24","Soundcloud Pro subscription","81112105","F","a884e07c1a5111e59c34002590ed1556",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","58","37.21","0","2015-07-04","Nationbuilder subscription","81112105","F","188289",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-07-24","Soundcloud Pro subscription","81112105","F","a31bce3431e411e5a3460cc47a206942",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","58","","0","2015-08-04","Nationbuilder subscription","81112105","F","197127",,
+"Paul Robinson","","Meetup","https://opencorporates.com/companies/us_ny/2855085","USD","59.94","","0","2015-08-16","Meetup organiser dues","","F","35735221",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-08-23","Soundcloud Pro subscription","81112105","F","9df7ccc8497711e58a1e0cc47a131e1e",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","58","","0","2015-09-04","Nationbuilder subscription","81112105","F","206113",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-09-22","Soundcloud Pro subscription","81112105","F","97ba7bf8610a11e5a25b0cc47a131f9a",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","78","","0","2015-10-04","Nationbuilder subscription","81112105","F","215359",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-10-22","Soundcloud Pro subscription","81112105","F","8af4b5f0789d11e5b35f0cc47a205fdc",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","68","","0","2015-11-04","Nationbuilder subscription","81112105","F","224314",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-11-21","Soundcloud Pro subscription","81112105","F","83d4c1a2903011e58f1a002590ed1554",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","19","","0","2015-12-04","Nationbuilder subscription","81112105","F","188289",,
+"James Smith","http://id.floppy.org.uk","Soundcloud","https://opencorporates.com/companies/gb/06343600","GBP","","3.99","0","2015-12-21","Soundcloud Pro subscription","81112105","F","7fceb0fea7c311e5a9b60cc47a152e76",,
+"James Smith","http://id.floppy.org.uk","NationBuilder","","USD","19","","0","2016-01-04","Nationbuilder subscription","81112105","F","188289",,
+,,,,,,,,,,,,,,
