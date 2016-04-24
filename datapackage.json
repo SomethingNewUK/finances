@@ -131,6 +131,22 @@
                 "url": "http://csvlint.io/validation/5460195963737674e3010000"
               }
             ]
+        },
+        {
+            "path": "national/donations.csv",
+            "url": "https://somethingnewuk.github.io/finances/national/donations.csv",
+            "name": "National Donations",
+            "dialect": {
+                "delimiter": ",",
+                "doublequote": false,
+                "lineterminator": "\n",
+                "quotechar": "\"",
+                "skipinitialspace": false,
+                "header": true
+            },
+            "schema": "donations",
+            "links": [
+            ]
         }
     ],
     "schemas": {
