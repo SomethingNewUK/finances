@@ -1,5 +1,5 @@
 "buyer","buyer_uri","supplier","supplier_uri","currency","total_charged","total_paid","vat","date","description","unspsc_code","ec_category","transaction_reference","ec_accounting_category"
-"Paul Robinson",,"Waverley District Council","http://opendatacommunities.org/doc/district-council/waverley","GBP",,500,0,,"Election deposit",,,,"campaigning costs"
+"Paul Robinson",,"Waverley District Council","http://opendatacommunities.org/doc/district-council/waverley","GBP",,500,0,"2015-03-30","Election deposit",,,,"campaigning costs"
 "Paul Robinson",,"Enterprise Rent a Car","https://opencorporates.com/companies/gb/02946689","GBP",,36.24,,"2015-04-16","Van hire",78111808,"B",,"campaigning costs"
 "Paul Robinson",,"Foundry Press Limited","https://opencorporates.com/companies/gb/02846162","GBP",,975,0,"2015-04-23","Leaflet printing","82121506","B","42981","campaigning costs"
 "Paul Robinson",,"Staples UK Limited","https://opencorporates.com/companies/gb/02759437","GBP",,16.49,2.75,2015-04-23,"Labels for leaflet boxes",55121606,"B",,"campaigning costs"
