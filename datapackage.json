@@ -33,9 +33,9 @@
       ],
     "resources": [
         {
-            "path": "horsham/expenditure.csv",
-            "url": "https://somethingnewuk.github.io/finances/horsham/expenditure.csv",
-            "name": "Horsham Expenditure",
+            "path": "parl.horsham.2015-05-07/expenditure.csv",
+            "url": "https://somethingnewuk.github.io/finances/parl.horsham.2015-05-07/expenditure.csv",
+            "name": "2015 Horsham Expenditure",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
@@ -53,9 +53,9 @@
             ]
         },
         {
-            "path": "horsham/income.csv",
-            "url": "https://somethingnewuk.github.io/finances/horsham/income.csv",
-            "name": "Horsham Campaign Income",
+            "path": "parl.horsham.2015-05-07/income.csv",
+            "url": "https://somethingnewuk.github.io/finances/parl.horsham.2015-05-07/income.csv",
+            "name": "2015 Horsham Campaign Income",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "path": "swsurrey/expenditure.csv",
-            "url": "https://somethingnewuk.github.io/finances/swsurrey/expenditure.csv",
-            "name": "South West Surrey Expenditure",
+            "path": "parl.south-west-surrey.2015-05-07/expenditure.csv",
+            "url": "https://somethingnewuk.github.io/finances/parl.south-west-surrey.2015-05-07/expenditure.csv",
+            "name": "2015 South West Surrey Expenditure",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "path": "swsurrey/income.csv",
-            "url": "https://somethingnewuk.github.io/finances/swsurrey/income.csv",
-            "name": "South West Surrey Campaign Income",
+            "path": "parl.south-west-surrey.2015-05-07/income.csv",
+            "url": "https://somethingnewuk.github.io/finances/parl.south-west-surrey.2015-05-07/income.csv",
+            "name": "2015 South West Surrey Campaign Income",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "path": "national/expenditure.csv",
-            "url": "https://somethingnewuk.github.io/finances/national/expenditure.csv",
-            "name": "National Expenditure",
+            "path": "party.2486/expenditure.csv",
+            "url": "https://somethingnewuk.github.io/finances/party.2486/expenditure.csv",
+            "name": "National Party Expenditure",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "path": "national/income.csv",
-            "url": "https://somethingnewuk.github.io/finances/national/income.csv",
-            "name": "National Income",
+            "path": "party.2486/income.csv",
+            "url": "https://somethingnewuk.github.io/finances/party.2486/income.csv",
+            "name": "National Party Income",
             "dialect": {
                 "delimiter": ",",
                 "doublequote": false,
