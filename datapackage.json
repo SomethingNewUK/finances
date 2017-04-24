@@ -32,7 +32,47 @@
         }
       ],
     "resources": [
-        {
+      {
+          "path": "local.staffordshire.lichfield-city-north.2017-05-04/expenditure.csv",
+          "url": "https://somethingnewuk.github.io/finances/local.staffordshire.lichfield-city-north.2017-05-04/expenditure.csv",
+          "name": "2017 Lichfield (Staffordshire County Council) campaign spending",
+          "dialect": {
+              "delimiter": ",",
+              "doublequote": false,
+              "lineterminator": "\n",
+              "quotechar": "\"",
+              "skipinitialspace": false,
+              "header": true
+          },
+          "schema": "expenditure",
+          "links": [
+            {
+              "name": "CSV Validation",
+              "url": ""
+            }
+          ]
+      },
+      {
+          "path": "local.staffordshire.lichfield-city-north.2017-05-04/income.csv",
+          "url": "https://somethingnewuk.github.io/finances/local.staffordshire.lichfield-city-north.2017-05-04/income.csv",
+          "name": "2017 Lichfield (Staffordshire County Council) campaign income",
+          "dialect": {
+              "delimiter": ",",
+              "doublequote": false,
+              "lineterminator": "\n",
+              "quotechar": "\"",
+              "skipinitialspace": false,
+              "header": true
+          },
+          "schema": "income",
+          "links": [
+            {
+              "name": "CSV Validation",
+              "url": ""
+            }
+          ]
+      },
+      {
             "path": "parl.horsham.2015-05-07/expenditure.csv",
             "url": "https://somethingnewuk.github.io/finances/parl.horsham.2015-05-07/expenditure.csv",
             "name": "2015 Horsham Expenditure",
