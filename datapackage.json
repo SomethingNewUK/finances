@@ -48,7 +48,7 @@
           "links": [
             {
               "name": "CSV Validation",
-              "url": ""
+              "url": "https://csvlint.io/validation/5900a73b6435390004000005"
             }
           ]
       },
@@ -68,7 +68,7 @@
             "links": [
               {
                 "name": "CSV Validation",
-                "url": ""
+                "url": "https://csvlint.io/validation/5900a6e26530380004000000"
               }
             ]
         },
@@ -88,7 +88,7 @@
             "links": [
               {
                 "name": "CSV Validation",
-                "url": ""
+                "url": "https://csvlint.io/validation/5900a69d6435390004000003"
               }
             ]
         },
@@ -108,7 +108,7 @@
             "links": [
               {
                 "name": "CSV Validation",
-                "url": ""
+                "url": "https://csvlint.io/validation/5900a6f66435390004000004"
               }
             ]
         }
