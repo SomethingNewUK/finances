@@ -1,0 +1,3 @@
+buyer,buyer_uri,supplier,supplier_uri,currency,total_charged,amount,vat,balance,date,description,unspsc_code,ec_category,transaction_reference,ec_accounting_category
+James Smith,http://id.floppy.org.uk,"Instantprint",https://opencorporates.com/companies/ie/462932,GBP,104.00,104.00,0,,21/04/17,Leaflet printing,"82121506","B","web1012566-2","campaigning costs"
+
