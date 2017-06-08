@@ -33,6 +33,46 @@
       ],
     "resources": [
       {
+          "path": "parl.horsham.2017-06-08.csv",
+          "url": "https://somethingnewuk.github.io/finances/parl.horsham.2017-06-08.csv",
+          "name": "2017 Horsham campaign finances",
+          "dialect": {
+              "delimiter": ",",
+              "doublequote": false,
+              "lineterminator": "\n",
+              "quotechar": "\"",
+              "skipinitialspace": false,
+              "header": true
+          },
+          "schema": "finances",
+          "links": [
+            {
+              "name": "CSV Validation",
+              "url": ""
+            }
+          ]
+      },
+      {
+          "path": "parl.ross-skye-and-lochaber.2017-06-08.csv",
+          "url": "https://somethingnewuk.github.io/finances/parl.ross-skye-and-lochaber.2017-06-08.csv",
+          "name": "2017 Ross, Skye and Lochaber campaign finances",
+          "dialect": {
+              "delimiter": ",",
+              "doublequote": false,
+              "lineterminator": "\n",
+              "quotechar": "\"",
+              "skipinitialspace": false,
+              "header": true
+          },
+          "schema": "finances",
+          "links": [
+            {
+              "name": "CSV Validation",
+              "url": ""
+            }
+          ]
+      },
+      {
           "path": "local.west-sussex.holbrook.2017-05-04.csv",
           "url": "https://somethingnewuk.github.io/finances/local.west-sussex.holbrook.2017-05-04.csv",
           "name": "2017 Holbrook (West Sussex County Council) campaign finances",
