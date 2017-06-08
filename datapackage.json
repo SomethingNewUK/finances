@@ -32,6 +32,27 @@
         }
       ],
     "resources": [
+      ,
+      {
+          "path": "party.2486.csv",
+          "url": "https://somethingnewuk.github.io/finances/party.2486.csv",
+          "name": "National Party finances",
+          "dialect": {
+              "delimiter": ",",
+              "doublequote": false,
+              "lineterminator": "\n",
+              "quotechar": "\"",
+              "skipinitialspace": false,
+              "header": true
+          },
+          "schema": "finances",
+          "links": [
+            {
+              "name": "CSV Validation",
+              "url": "https://csvlint.io/validation/5900a6f66435390004000004"
+            }
+          ]
+      },
       {
           "path": "parl.horsham.2017-06-08.csv",
           "url": "https://somethingnewuk.github.io/finances/parl.horsham.2017-06-08.csv",
@@ -149,26 +170,6 @@
               {
                 "name": "CSV Validation",
                 "url": "https://csvlint.io/validation/5900a69d6435390004000003"
-              }
-            ]
-        },
-        {
-            "path": "party.2486.csv",
-            "url": "https://somethingnewuk.github.io/finances/party.2486.csv",
-            "name": "National Party finances",
-            "dialect": {
-                "delimiter": ",",
-                "doublequote": false,
-                "lineterminator": "\n",
-                "quotechar": "\"",
-                "skipinitialspace": false,
-                "header": true
-            },
-            "schema": "finances",
-            "links": [
-              {
-                "name": "CSV Validation",
-                "url": "https://csvlint.io/validation/5900a6f66435390004000004"
               }
             ]
         }
