@@ -177,20 +177,11 @@
         "finances": {
             "fields": [
                 {
-                    "name": "buyer",
-                    "title": "Buyer",
-                    "description": "Who paid for the transaction; payments made by individuals are considered loans to be reimbursed by the party",
+                    "name": "donor",
+                    "title": "Donor",
+                    "description": "Who donated this item?",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#string",
-                      "required": true
-                    }
-                },
-                {
-                    "name": "buyer_uri",
-                    "title": "Buyer URI",
-                    "description": "URI to uniquely identify the buyer",
-                    "constraints" : {
-                      "type": "http://www.w3.org/2001/XMLSchema#anyURI",
                       "required": false
                     }
                 },
@@ -200,7 +191,7 @@
                     "description": "The supplier of the product or service",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#string",
-                      "required": true
+                      "required": false
                     }
                 },
                 {
@@ -209,6 +200,15 @@
                     "description": "URI to uniquely identify the supplier",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "required": false
+                    }
+                },
+                {
+                    "name": "via",
+                    "title": "Via",
+                    "description": "For income, which payment processor was used?",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#string",
                       "required": false
                     }
                 },
@@ -222,36 +222,45 @@
                     }
                 },
                 {
-                    "name": "total_charged",
-                    "title": "Total charged",
-                    "description": "In original currency, including taxes",
+                    "name": "non_gbp_value",
+                    "title": "Non-GBP value",
+                    "description": "If not GBP, what was charged in the original currency",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#float",
                       "required": false
                     }
                 },
                 {
-                    "name": "amount",
-                    "title": "Amount",
-                    "description": "Transaction amount in GBP, including VAT",
+                    "name": "value",
+                    "title": "Value",
+                    "description": "Item value in GBP, including taxes",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#float",
                       "required": true
                     }
                 },
                 {
-                    "name": "vat",
-                    "title": "VAT paid",
-                    "description": "Amount of VAT paid",
+                    "name": "fee",
+                    "title": "Fee paid",
+                    "description": "Any transaction fee paid to the provider in {via}",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#float",
+                      "required": false
+                    }
+                },
+                {
+                    "name": "cash",
+                    "title": "Cash Value",
+                    "description": "The cash value of the item. Notional donations have zero cash value.",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#float",
                       "required": true
                     }
                 },
                 {
-                    "name": "balance",
-                    "title": "Balance",
-                    "description": "Balance of account",
+                    "name": "cash_balance",
+                    "title": "Cash balance",
+                    "description": "Cash balance; will not include notional donations.",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#float",
                       "required": true
@@ -284,6 +293,15 @@
                     }
                 },
                 {
+                    "name": "transaction_reference",
+                    "title": "Transaction reference",
+                    "description": "Supplier's invoice number or ID",
+                    "constraints" : {
+                      "type": "http://www.w3.org/2001/XMLSchema#string",
+                      "required": false
+                    }
+                },
+                {
                     "name": "ec_category",
                     "title": "Electoral Commission spending category",
                     "description": "Spending category A-F as defined in http://www.electoralcommission.org.uk/__data/assets/pdf_file/0013/107104/form-ce-by-election-ca.pdf",
@@ -293,14 +311,14 @@
                     }
                 },
                 {
-                    "name": "transaction_reference",
-                    "title": "Transaction reference",
-                    "description": "Supplier's invoice number or ID",
+                    "name": "ec_accounting_category",
+                    "title": "Electoral Commission accounting category",
+                    "description": "",
                     "constraints" : {
                       "type": "http://www.w3.org/2001/XMLSchema#string",
                       "required": false
                     }
-                }
+                }                
             ]
         }
     }

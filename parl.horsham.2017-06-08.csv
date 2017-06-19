@@ -1,4 +1,4 @@
-"buyer","buyer_uri","supplier","supplier_uri","currency","total_charged","amount","vat","balance","date","description","unspsc_code","ec_category","transaction_reference","ec_accounting_category"
-"James Smith","http://id.floppy.org.uk","Horsham District Council","http://opendatacommunities.org/doc/district-council/horsham","GBP",,-500,0,-500,"2017-05-10","Election deposit",,,,"campaigning costs"
-"Philip John",,"Instantprint","https://opencorporates.com/companies/gb/","GBP",,-1069.06,0,-1569.06,"2017-05-17","Leaflet printing","82121506","B",,"campaigning costs"
-"James Smith","http://id.floppy.org.uk","Facebook Ireland, Ltd.","https://opencorporates.com/companies/ie/462932","GBP",,-10,0,-1579.06,"2017-06-05","Facebook advertising","82101603","A",,"campaigning costs"
+"donor","supplier","supplier_uri","via","currency","non_gbp_value","value","fee","cash","cash_balance","date","description","unspsc_code","transaction_reference","ec_category","ec_accounting_category"
+"James Smith","Horsham District Council","http://opendatacommunities.org/doc/district-council/horsham",,"GBP",,-500,0,0,0,"2017-05-10","Election deposit",,,,"campaigning costs"
+"Philip John","Instantprint","https://opencorporates.com/companies/gb/06930867",,"GBP",,-1069.06,0,0,0,"2017-05-17","Leaflet printing","82121506",,"B","campaigning costs"
+"James Smith","Facebook Ireland, Ltd.","https://opencorporates.com/companies/ie/462932",,"GBP",,-10,0,0,0,"2017-06-05","Facebook advertising","82101603",,"A","campaigning costs"

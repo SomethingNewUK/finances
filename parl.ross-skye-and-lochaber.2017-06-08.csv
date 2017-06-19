@@ -1,3 +1,3 @@
-"buyer","buyer_uri","supplier","supplier_uri","currency","total_charged","amount","vat","balance","date","description","unspsc_code","ec_category","transaction_reference","ec_accounting_category"
-"Lewis Sturrock",,"Highland Council",,"GBP",,-500,0,-500,"2017-05-10","Election deposit",,,,"campaigning costs"
-"Philip John",,"Instantprint","https://opencorporates.com/companies/gb/","GBP",,-891,0,-1391,"2017-05-17","Leaflet printing","82121506","B",,"campaigning costs"
+"donor","supplier","supplier_uri","via","currency","non_gbp_value","value","fee","cash","cash_balance","date","description","unspsc_code","transaction_reference","ec_category","ec_accounting_category"
+"Lewis Sturrock","Highland Council",,,"GBP",,-500,0,0,0,"2017-05-10","Election deposit",,,,"campaigning costs"
+"Philip John","Instantprint","https://opencorporates.com/companies/gb/06930867",,"GBP",,-891,0,0,0,"2017-05-17","Leaflet printing","82121506",,"B","campaigning costs"
