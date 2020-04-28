@@ -1,190 +1,409 @@
-"donor","supplier","supplier_uri","via","currency","non_gbp_value","value","fee","cash","cash_balance","date","description","unspsc_code","transaction_reference","ec_category","ec_accounting_category"
-"Alex Hilton","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-52,-32.88,0,0,0,"2014-09-04","Nationbuilder subscription","81112105","106863","F","office costs"
-"Alex Hilton","Electoral Commission","http://www.electoralcommission.org.uk/",,"GBP",,-150,0,0,0,"2014-10-01","Party registration","93111602",,"F","miscellaneous"
-"Alex Hilton","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-66,-41.74,0,0,0,"2014-10-04","Nationbuilder subscription","81112105","114569","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-66,-41.74,0,0,0,"2014-11-04","Nationbuilder subscription","81112105","122617","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-66,-42.2,0,0,0,"2014-12-04","Nationbuilder subscription","81112105","130461","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-80,-51.91,0,0,0,"2015-01-04","Nationbuilder subscription","81112105","136826","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-80,-53.05,0,0,0,"2015-02-04","Nationbuilder subscription","81112105","144493","F","office costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-02-24","Soundcloud Pro subscription","81112105","21651a08bc0511e49fc20cc47a121262","F","office costs"
-"James Smith","PostLayer","https://opencorporates.com/companies/us_tx/0800566831",,"USD",-15,-10.04,0,0,0,"2015-02-26","Email spam filtering","81161600","0423352","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-85,-55.48,0,0,0,"2015-03-04","Nationbuilder subscription","81112105","153863","F","office costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-03-25","Soundcloud Pro subscription","81112105","bc63df9ed39811e4bef40cc47a121748","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-85,-57.57,0,0,0,"2015-04-04","Nationbuilder subscription","81112105","162345","F","office costs"
-"James Smith","GANDI International","https://opencorporates.com/companies/lu/B173775",,"GBP",,-31.8,0,0,0,"2015-04-11","Domain registration","81112107","2015041100258","A","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-6.7,0,0,0,"2015-04-20","Twibbon Pro subscription","81112105","9932a62a-5d69-40d1-a5b5-a48000c6137c","F","campaigning costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-04-25","Soundcloud Pro subscription","81112105","b6ede230eb2b11e48e800cc47a13206e","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-58,-38.44,0,0,0,"2015-05-05","Nationbuilder subscription","81112105","170930","F","office costs"
-"James Smith","PostLayer","https://opencorporates.com/companies/us_tx/0800566831",,"USD",-12.25,-7.84,0,0,0,"2015-05-13","Email spam filtering","81161600",,"F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-6.43,0,0,0,"2015-05-20","Twibbon Pro subscription","81112105","79a36869-daf9-4e2a-bd85-a48000c612b4","F","campaigning costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-05-25","Soundcloud Pro subscription","81112105","ad0eb3e802be11e5a74b002590ed1bf4","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-58,-38,0,0,0,"2015-06-04","Nationbuilder subscription","81112105","179599","F","office costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-06-24","Soundcloud Pro subscription","81112105","a884e07c1a5111e59c34002590ed1556","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-58,-37.21,0,0,0,"2015-07-04","Nationbuilder subscription","81112105","188289","F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-6.41,0,0,0,"2015-07-20","Twibbon Pro subscription","81112105","fb26e3ed-4cd5-47f3-8fb6-a4db00d76fbb","F","campaigning costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-07-24","Soundcloud Pro subscription","81112105","a31bce3431e411e5a3460cc47a206942","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-58,-37.26,0,0,0,"2015-08-04","Nationbuilder subscription","81112105","197127","F","office costs"
-"Paul Robinson","Meetup","https://opencorporates.com/companies/us_ny/2855085",,"USD",-59.94,-38.31,0,0,0,"2015-08-16","Meetup organiser dues",,"35735221","F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-6.39,0,0,0,"2015-08-20","Twibbon Pro subscription","81112105","75efe1c3-f5e6-43cc-956b-a4fa00d8cc71","F","campaigning costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-08-23","Soundcloud Pro subscription","81112105","9df7ccc8497711e58a1e0cc47a131e1e","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-58,-38.17,0,0,0,"2015-09-04","Nationbuilder subscription","81112105","206113","F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-6.41,0,0,0,"2015-09-20","Twibbon Pro subscription","81112105","5d5c2dc4-1253-48f0-8631-a51900d8d5c7","F","campaigning costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-09-22","Soundcloud Pro subscription","81112105","97ba7bf8610a11e5a25b0cc47a131f9a","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-78,-51.58,0,0,0,"2015-10-04","Nationbuilder subscription","81112105","215359","F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-6.47,0,0,0,"2015-10-20","Twibbon Pro subscription","81112105","a6291abc-59ac-4444-bbaa-a53700d74b66","F","campaigning costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-10-22","Soundcloud Pro subscription","81112105","8af4b5f0789d11e5b35f0cc47a205fdc","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-68,-44.28,0,0,0,"2015-11-04","Nationbuilder subscription","81112105","224314","F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-6.56,0,0,0,"2015-11-20","Twibbon Pro subscription","81112105","ea16136a-6a2b-4d53-b163-a55600d78585","F","campaigning costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-11-21","Soundcloud Pro subscription","81112105","83d4c1a2903011e58f1a002590ed1554","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-19,-12.65,0,0,0,"2015-12-04","Nationbuilder subscription","81112105","188289","F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-6.73,0,0,0,"2015-12-20","Twibbon Pro subscription","81112105","e72f0ec7-8814-47db-8eee-a57400d7bae5","F","campaigning costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2015-12-21","Soundcloud Pro subscription","81112105","7fceb0fea7c311e5a9b60cc47a152e76","F","office costs"
-"James Smith","NationBuilder","https://opencorporates.com/companies/us_de/4891678",,"USD",-19,-12.93,0,0,0,"2016-01-04","Nationbuilder subscription","81112105","188289","F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-7.08,0,0,0,"2016-01-20","Twibbon Pro subscription","81112105","f049b0e9-2999-4c23-a62a-a59300d834a5","F","campaigning costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,0,"2016-01-20","Soundcloud Pro subscription","81112105","75ecc63ebf5611e5abc80cc47a121748","F","office costs"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,4.63,"2016-02-09","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-5,-3.57,0,-3.57,1.06,"2016-02-11","Discourse server hosting","81161600","5CS44348RV419724S","F","office costs"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,1.06,"2016-02-19","Soundcloud Pro subscription","81112105","72013442d6e911e5b00e002590ed1554","F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-7.02,0,0,1.06,"2016-02-20","Twibbon Pro subscription","81112105","15176633-4c98-4269-a25b-a5b200d93b78","F","campaigning costs"
-"James Smith","PostLayer","https://opencorporates.com/companies/us_tx/0800566831",,"USD",-30,-7.84,0,0,1.06,"2016-02-21","Email spam filtering","81161600","0424284","F","office costs"
-"Bruno Antunes",,,"Paypal","GBP",,10,-0.54,9.46,10.52,"2016-03-02","Donation",,,,"donation"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,15.15,"2016-03-09","Donation",,,,"donation"
-"Antonio Borza",,,"Paypal","GBP",,10,-0.54,9.46,24.61,"2016-03-14","Donation",,,,"donation"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,24.61,"2016-03-20","Soundcloud Pro subscription","81112105","6be1d1d4ee7c11e59d66002590ed1aa6","F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-6.94,0,0,24.61,"2016-03-20","Twibbon Pro subscription","81112105","6f58e643-ad9e-450a-b508-a5cf00d98b41","F","campaigning costs"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-7.32,0,-7.32,17.29,"2016-04-09","Discourse server hosting","81161600","3HS607450S697925Y","F","office costs"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,21.92,"2016-04-09","Donation",,,,"donation"
-"James Smith","SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,0,21.92,"2016-04-19","Soundcloud Pro subscription","81112105","631010de060f11e698de002590ed1ace","F","office costs"
-"James Smith","Twibbon","https://opencorporates.com/companies/gb/SC344051",,"USD",-10,-6.97,0,0,21.92,"2016-04-20","Twibbon Pro subscription","81112105","433299f4-bb7f-4414-8a54-a5ee00d7a8a2","F","campaigning costs"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,17.93,"2016-04-24","Soundcloud Pro subscription","81112105","a1cf5dd00a6411e6a7e90cc47ab20604","F","office costs"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-7.07,0,-7.07,10.86,"2016-04-29","Discourse server hosting","81161600",,"F","office costs"
-"Campaign: parl.horsham.2015-05-07",,,"Paypal","GBP",,17.8,0,17.8,28.66,"2016-04-24","Transfer from campaign funds",,,,"donation"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,33.29,"2016-05-09","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,29.3,"2016-05-24","Soundcloud Pro subscription","81112105","371ca75821f811e6b1a70cc47a1526d6","F","office costs"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,33.93,"2016-06-09","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-7.22,0,-7.22,26.71,"2016-06-18","Discourse server hosting","81161600",,"F","office costs"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,28.92,"2016-06-20","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,24.93,"2016-06-23","Soundcloud Pro subscription","81112105","36239dc0398b11e69193002590ed1100","F","office costs"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,29.56,"2016-07-09","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-5,-3.92,0,-3.92,25.64,"2016-07-15","Discourse server hosting","81161600",,"F","office costs"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-5,-3.92,0,-3.92,21.72,"2016-07-15","Discourse server hosting","81161600",,"F","office costs"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,23.93,"2016-07-20","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,19.94,"2016-07-23","Soundcloud Pro subscription","81112105","31491280511e11e688230cc47a152e7e","F","office costs"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-7.74,0,-7.74,12.2,"2016-08-03","Discourse server hosting","81161600",,"F","office costs"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,16.83,"2016-08-09","Donation",,,,"donation"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,19.04,"2016-08-20","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,15.05,"2016-08-22","Soundcloud Pro subscription","81112105","3345c79068b111e6a6c70cc47a205fbe","F","office costs"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-7.89,0,-7.89,7.16,"2016-08-29","Discourse server hosting","81161600",,"F","office costs"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,11.79,"2016-09-09","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-7.92,0,-7.92,3.87,"2016-09-20","Discourse server hosting","81161600",,"F","office costs"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,6.08,"2016-09-20","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,2.09,"2016-09-21","Soundcloud Pro subscription","81112105","3177b900804411e6a749002590ed1212","F","office costs"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,6.72,"2016-10-09","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-25,-21.18,0,-21.18,-14.46,"2016-10-16","Discourse server hosting","81161600",,"F","office costs"
-"James Smith",,,"Paypal","GBP",,20,-0.88,19.12,4.66,"2016-10-16","Donation",,,,"donation"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,6.87,"2016-10-20","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,2.88,"2016-10-22","Soundcloud Pro subscription","81112105","1716769097e211e6bb8f0cc47a152550","F","office costs"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,7.51,"2016-11-09","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,3.52,"2016-11-20","Soundcloud Pro subscription","81112105","1b8b0a70af6a11e68eca0cc47a1524be","F","office costs"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,5.73,"2016-11-20","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-8.32,0,-8.32,-2.59,"2016-11-29","Discourse server hosting","81161600",,"F","office costs"
-"James Smith",,,"Paypal","GBP",,10,-0.54,9.46,6.87,"2016-11-29","Donation",,,,"donation"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,11.5,"2016-12-09","Donation",,,,"donation"
-"Philip John",,,"Paypal","GBP",,10,-0.54,9.46,20.96,"2016-12-16","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,16.97,"2016-12-20","Soundcloud Pro subscription","81112105","1a6793c0c6fd11e69a900cc47a121742","F","office costs"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,19.18,"2016-12-20","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-8.42,0,-8.42,10.76,"2016-12-26","Discourse server hosting","81161600",,"F","office costs"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,15.39,"2017-01-09","Donation",,,,"donation"
-"Philip John",,,"Paypal","GBP",,10,-0.54,9.46,24.85,"2017-01-16","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-8.36,0,-8.36,16.49,"2017-01-17","Discourse server hosting","81161600",,"F","office costs"
-,"GANDI International","https://opencorporates.com/companies/lu/B173775",,"GBP",,-8,0,-8,8.49,"2017-01-17","Domain registration","81112107",,"A","office costs"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,4.5,"2017-01-19","Soundcloud Pro subscription","81112105","0f6a7230de9011e6b69102420a901f08","F","office costs"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,6.71,"2017-01-20","Donation",,,,"donation"
-"Laura James",,,"Paypal","GBP",,5,-0.37,4.63,11.34,"2017-01-20","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-8.29,0,-8.29,3.05,"2017-01-31","Discourse server hosting","81161600",,"F","office costs"
-"Michael Dales",,,"Paypal","GBP",,20,-0.88,19.12,22.17,"2017-01-31","Donation",,,,"donation"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,26.8,"2017-02-09","Donation",,,,"donation"
-"Philip John",,,"Paypal","GBP",,10,-0.54,9.46,36.26,"2017-02-16","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,32.27,"2017-02-18","Soundcloud Pro subscription","81112105","0bd5ad60f62311e6a97f02420a902310","F","office costs"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,34.48,"2017-02-21","Donation",,,,"donation"
-"Laura James",,,"Paypal","GBP",,5,-0.37,4.63,39.11,"2017-02-21","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-25,-20.72,0,-20.72,18.39,"2017-02-25","Discourse server hosting","81161600",,"F","office costs"
-"Philip John","Facebook Ireland, Ltd.","https://opencorporates.com/companies/ie/462932",,"GBP",,-8,0,0,18.39,"2017-02-28","Facebook advertising","82101603","1385691338211896-2398485","A","campaigning costs"
-"Michael Dales",,,"Paypal","GBP",,20,-0.88,19.12,37.51,"2017-03-01","Donation",,,,"donation"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,42.14,"2017-03-09","Donation",,,,"donation"
-"Philip John",,,"Paypal","GBP",,10,-0.54,9.46,51.6,"2017-03-16","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,47.61,"2017-03-20","Soundcloud Pro subscription","81112105","b52c55800db611e7a1ff0a580a91117a","F","office costs"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,49.82,"2017-03-20","Donation",,,,"donation"
-"Laura James",,,"Paypal","GBP",,5,-0.37,4.63,54.45,"2017-03-20","Donation",,,,"donation"
-"Laura James",,,"Paypal","GBP",,50,-1.9,48.1,102.55,"2017-03-29","Donation to local.2017-05-04 campaign",,,,"donation"
-"James Smith",,,"Paypal","GBP",,10,-0.54,9.46,112.01,"2017-03-28","Donation to local.2017-05-04 campaign",,,,"donation"
-"5e5490df94",,,"Paypal","GBP",,5,-0.37,4.63,116.64,"2017-03-29","Donation",,,,"donation"
-"5225e02231",,,"Paypal","GBP",,10,-0.54,9.46,126.1,"2017-03-30","Donation to local.2017-05-04 campaign",,,,"donation"
-"Michael Dales",,,"Paypal","GBP",,20,-0.88,19.12,145.22,"2017-03-31","Donation",,,,"donation"
-"b962353fbd",,,"Paypal","GBP",,10,-0.54,9.46,154.68,"2017-04-01","Donation to local.2017-05-04 campaign",,,,"donation"
-"James Smith","Heroku","https://opencorporates.com/companies/us_de/4426449",,"USD",-5.33,,0,0,154.68,"2017-04-01","Heroku server hosting","81161600",10952349,"F","office costs"
-"c20457dbe6",,,"Paypal","GBP",,10,-0.54,9.46,164.14,"2017-04-09","Donation to local.2017-05-04 campaign",,,,"donation"
-"James Smith",,,"Paypal","GBP",,5,-0.37,4.63,168.77,"2017-04-09","Donation",,,,"donation"
-"729f9a6fbd",,,"Paypal","GBP",,2,-0.27,1.73,170.5,"2017-04-14","Donation to local.2017-05-04 campaign",,,,"donation"
-,"GANDI International","https://opencorporates.com/companies/lu/B173775",,"GBP",,-29.8,0,-29.8,140.7,"2017-04-16","Domain registration",,,"A","office costs"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-10,-8.26,0,-8.26,132.44,"2017-04-16","Discourse server hosting","81161600",,"F","office costs"
-"Philip John",,,"Paypal","GBP",,10,-0.54,9.46,141.9,"2017-04-16","Donation",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,137.91,"2017-04-19","Soundcloud Pro subscription","81112105",,"F","office costs"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,140.12,"2017-04-20","Donation",,,,"donation"
-"Laura James",,,"Paypal","GBP",,5,-0.37,4.63,144.75,"2017-04-20","Donation",,,,"donation"
-"Tim Organ",,,"Paypal","GBP",,50,-1.9,48.1,192.85,"2017-04-21","Donation to local.2017-05-04 campaign",,,,"donation"
-"2a2418b181",,,"Paypal","GBP",,10,-0.54,9.46,202.31,"2017-04-21","Donation",,,,"donation"
-"Anne Taylor",,,"Paypal","GBP",,80,-2.92,77.08,279.39,"2017-04-24","Donation to local.2017-05-04 campaign",,,,"donation"
-,"Crowdfunder Limited","https://opencorporates.com/companies/gb/07831511",,"GBP",,-13.32,0,-13.32,266.07,"2017-04-25","Crowdfunder fees",,,,
-,"Campaign: local.staffordshire.lichfield-city-north.2017-05-04",,,"GBP",,-187.77,0,-187.77,78.3,"2017-04-25","Disbursement of donations to campaign",,,,"campaigning costs"
-,"Campaign: local.west-sussex.holbrook.2017-05-04",,,"GBP",,-34.23,0,-34.23,44.07,"2017-04-25","Disbursement of donations to campaign",,,,"campaigning costs"
-"James Smith",,,"Stripe","GBP",,10,-0.4,9.6,53.67,"2017-04-29","Donation to parl.2017-06-08 campaign",,,,"donation"
-"f595d71d06",,,"Stripe","GBP",,50,-2,48,101.67,"2017-04-30","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Michael Dales",,,"Paypal","GBP",,20,-0.88,19.12,120.79,"2017-05-01","Donation",,,,"donation"
-,"Heroku","https://opencorporates.com/companies/us_de/4426449",,"USD",-2.42,-1.88,-0.05,-1.93,118.86,"2017-05-01","Heroku server hosting","81161600",11292744,"F","office costs"
-"Rebecca Robinson",,,"Stripe","GBP",,25,-1,24,142.86,"2017-05-02","Donation to parl.2017-06-08 campaign",,,,"donation"
-"9badd7b70d",,,"Stripe","GBP",,10,-0.4,9.6,152.46,"2017-05-04","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Leigh Dodds",,,"Stripe","GBP",,20,-0.8,19.2,171.66,"2017-05-05","Donation to parl.2017-06-08 campaign",,,,"donation"
-"f81bc5879b",,,"Stripe","GBP",,10,-0.4,9.6,181.26,"2017-05-05","Donation to parl.2017-06-08 campaign",,,,"donation"
-"6eac11dc71",,,"Stripe","GBP",,10,-0.4,9.6,190.86,"2017-05-05","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Julie Freeman",,,"Stripe","GBP",,20,-0.8,19.2,210.06,"2017-05-05","Donation to parl.2017-06-08 campaign",,,,"donation"
-"8ef92dba1f",,,"Stripe","GBP",,3,-0.12,2.88,212.94,"2017-05-05","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Anne Taylor",,,"Stripe","GBP",,100,-4,96,308.94,"2017-05-07","Donation to parl.2017-06-08 campaign",,,,"donation"
-"fbcf919427",,,"Stripe","GBP",,10,-0.4,9.6,318.54,"2017-05-08","Donation to parl.2017-06-08 campaign",,,,"donation"
-"1bd5a356be",,,"Stripe","GBP",,20,-0.8,19.2,337.74,"2017-05-08","Donation to parl.2017-06-08 campaign",,,,"donation"
-"James Smith",,,"Stripe","GBP",,5,-0.27,4.73,342.47,"2017-05-09","Membership donation",,,,
-"Philip John",,,"Stripe","GBP",,5,-0.27,4.73,347.2,"2017-05-09","Membership donation",,,,
-"Nik Butler",,,"Stripe","GBP",,500,-20,480,827.2,"2017-05-10","Donation to parl.2017-06-08 campaign",,,,"donation"
-"8dc14789bc",,,"Stripe","GBP",,10,-0.4,9.6,836.8,"2017-05-10","Donation to parl.2017-06-08 campaign",,,,"donation"
-"a9c7f262dc",,,"Stripe","GBP",,20,-0.8,19.2,856,"2017-05-10","Donation to parl.2017-06-08 campaign",,,,"donation"
-"317efd0afd",,,"Stripe","GBP",,25,-1,24,880,"2017-05-11","Donation to parl.2017-06-08 campaign",,,,"donation"
-"1b8d992624",,,"Stripe","GBP",,20,-0.8,19.2,899.2,"2017-05-11","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Michael Dales",,,"Stripe","GBP",,25,-0.55,24.45,923.65,"2017-05-13","Membership donation",,,,"donation"
-"Laura James",,,"Stripe","GBP",,5,-0.27,4.73,928.38,"2017-05-13","Membership donation",,,,"donation"
-"2a2418b181",,,"Stripe","GBP",,25,-0.55,24.45,952.83,"2017-05-13","Membership donation",,,,"donation"
-"47ed1ab010",,,"Stripe","GBP",,10,-0.4,9.6,962.43,"2017-05-14","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Philip John",,,"Paypal","GBP",,10,-0.54,9.46,971.89,"2017-05-16","Donation",,,,"donation"
-"Adam Hinchliff",,,"Stripe","GBP",,15,-0.6,14.4,986.29,"2017-05-17","Donation to parl.2017-06-08 campaign",,,,"donation"
-"48ec1f8c5c",,,"Stripe","GBP",,10,-0.4,9.6,995.89,"2017-05-17","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Edafe Onerhime",,,"Stripe","GBP",,10,-0.4,9.6,1005.49,"2017-05-17","Donation to parl.2017-06-08 campaign",,,,"donation"
-"b138ca0be5",,,"Stripe","GBP",,10,-0.4,9.6,1015.09,"2017-05-17","Donation to parl.2017-06-08 campaign",,,,"donation"
-"c7857d2f65",,,"Stripe","GBP",,10,-0.4,9.6,1024.69,"2017-05-17","Donation to parl.2017-06-08 campaign",,,,"donation"
-"8d838192a3",,,"Stripe","GBP",,25,-1,24,1048.69,"2017-05-17","Donation to parl.2017-06-08 campaign",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,1044.7,"2017-05-19","Soundcloud Pro subscription","81112105","9ea4bbf03cdb11e7ab1b0a580a90944f","F","office costs"
-"74fdda6c26",,,"Stripe","GBP",,25,-1,24,1068.7,"2017-05-19","Donation to parl.2017-06-08 campaign",,,,"donation"
-"ba528cb1a1",,,"Stripe","GBP",,50,-2,48,1116.7,"2017-05-19","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Graham Lally",,,"Paypal","GBP",,2.5,-0.29,2.21,1118.91,"2017-05-20","Donation",,,,"donation"
-"Nigel Sharp ac0046818e",,,"Stripe","GBP",,25,-1,24,1142.91,"2017-05-25","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Laura James",,,"Paypal","GBP",,5,-0.37,4.63,1147.54,"2017-05-25","Donation",,,,"donation"
-,"Digital Ocean, Inc.","https://opencorporates.com/companies/us_ny/4230996",,"USD",-16.59,-12.93,-0.35,-13.28,1134.26,"2017-06-01","Discourse server hosting","81161600",114353892,"F","office costs"
-"f9b1ae2bca",,,"Stripe","GBP",,25,-0.55,24.45,1158.71,"2017-06-06","Membership donation",,,,"donation"
-"Leigh Dodds",,,"Stripe","GBP",,20,-0.8,19.2,1177.91,"2017-06-08","Donation to parl.2017-06-08 campaign",,,,"donation"
-"James Smith",,,"Stripe","GBP",,5,-0.27,4.73,1182.64,"2017-06-09","Membership donation",,,,"donation"
-"Philip John",,,"Stripe","GBP",,5,-0.27,4.73,1187.37,"2017-06-09","Membership donation",,,,"donation"
-"6e223045ee",,,"Stripe","GBP",,20,-0.8,19.2,1206.57,"2017-06-09","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Rebecca Robinson",,,"Stripe","GBP",,25,-1,24,1230.57,"2017-06-09","Donation to parl.2017-06-08 campaign",,,,"donation"
-"Michael Dales",,,"Stripe","GBP",,25,-0.55,24.45,1255.02,"2017-06-13","Membership donation",,,,"donation"
-"Laura James",,,"Stripe","GBP",,5,-0.27,4.73,1259.75,"2017-06-13","Membership donation",,,,"donation"
-"685a2b37b5",,,"Stripe","GBP",,20,-0.48,19.52,1279.27,"2017-06-13","Membership donation",,,,"donation"
-"205e82d9b7",,,"Stripe","GBP",,25,-1,24,1303.27,"2017-06-15","Donation to parl.2017-06-08 campaign",,,,"donation"
-,"SoundCloud Ltd","https://opencorporates.com/companies/gb/06343600",,"GBP",,-3.99,0,-3.99,1299.28,"2017-06-18","Soundcloud Pro subscription","81112105","e1d79ff0546e11e7bd460a580a90671f","F","office costs"
+donor,donor_id,supplier,supplier_uri,via,currency,non_gbp_value,value,fee,cash,cash_balance,date,description,unspsc_code,transaction_reference,ec_category,ec_accounting_category,,
+Alex Hilton,,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-52.00,-32.88,0.00,0.00,0.00,2014-09-04,Nationbuilder subscription,81112105,106863,F,office costs,,
+Alex Hilton,,Electoral Commission,http://www.electoralcommission.org.uk/,,GBP,,-150.00,0.00,0.00,0.00,2014-10-01,Party registration,93111602,,F,miscellaneous,,
+Alex Hilton,,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-66.00,-41.74,0.00,0.00,0.00,2014-10-04,Nationbuilder subscription,81112105,114569,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-66.00,-41.74,0.00,0.00,0.00,2014-11-04,Nationbuilder subscription,81112105,122617,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-66.00,-42.20,0.00,0.00,0.00,2014-12-04,Nationbuilder subscription,81112105,130461,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-80.00,-51.91,0.00,0.00,0.00,2015-01-04,Nationbuilder subscription,81112105,136826,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-80.00,-53.05,0.00,0.00,0.00,2015-02-04,Nationbuilder subscription,81112105,144493,F,office costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-02-24,Soundcloud Pro subscription,81112105,21651a08bc0511e49fc20cc47a121262,F,office costs,,
+James Smith,a78599e307,PostLayer,https://opencorporates.com/companies/us_tx/0800566831,,USD,-15.00,-10.04,0.00,0.00,0.00,2015-02-26,Email spam filtering,81161600,423352,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-85.00,-55.48,0.00,0.00,0.00,2015-03-04,Nationbuilder subscription,81112105,153863,F,office costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-03-25,Soundcloud Pro subscription,81112105,bc63df9ed39811e4bef40cc47a121748,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-85.00,-57.57,0.00,0.00,0.00,2015-04-04,Nationbuilder subscription,81112105,162345,F,office costs,,
+James Smith,a78599e307,GANDI International,https://opencorporates.com/companies/lu/B173775,,GBP,,-31.80,0.00,0.00,0.00,2015-04-11,Domain registration,81112107,2015041100258,A,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-6.70,0.00,0.00,0.00,2015-04-20,Twibbon Pro subscription,81112105,9932a62a-5d69-40d1-a5b5-a48000c6137c,F,campaigning costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-04-25,Soundcloud Pro subscription,81112105,b6ede230eb2b11e48e800cc47a13206e,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-58.00,-38.44,0.00,0.00,0.00,2015-05-05,Nationbuilder subscription,81112105,170930,F,office costs,,
+James Smith,a78599e307,PostLayer,https://opencorporates.com/companies/us_tx/0800566831,,USD,-12.25,-7.84,0.00,0.00,0.00,2015-05-13,Email spam filtering,81161600,,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-6.43,0.00,0.00,0.00,2015-05-20,Twibbon Pro subscription,81112105,79a36869-daf9-4e2a-bd85-a48000c612b4,F,campaigning costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-05-25,Soundcloud Pro subscription,81112105,ad0eb3e802be11e5a74b002590ed1bf4,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-58.00,-38.00,0.00,0.00,0.00,2015-06-04,Nationbuilder subscription,81112105,179599,F,office costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-06-24,Soundcloud Pro subscription,81112105,a884e07c1a5111e59c34002590ed1556,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-58.00,-37.21,0.00,0.00,0.00,2015-07-04,Nationbuilder subscription,81112105,188289,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-6.41,0.00,0.00,0.00,2015-07-20,Twibbon Pro subscription,81112105,fb26e3ed-4cd5-47f3-8fb6-a4db00d76fbb,F,campaigning costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-07-24,Soundcloud Pro subscription,81112105,a31bce3431e411e5a3460cc47a206942,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-58.00,-37.26,0.00,0.00,0.00,2015-08-04,Nationbuilder subscription,81112105,197127,F,office costs,,
+Paul Robinson,,Meetup,https://opencorporates.com/companies/us_ny/2855085,,USD,-59.94,-38.31,0.00,0.00,0.00,2015-08-16,Meetup organiser dues,,35735221,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-6.39,0.00,0.00,0.00,2015-08-20,Twibbon Pro subscription,81112105,75efe1c3-f5e6-43cc-956b-a4fa00d8cc71,F,campaigning costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-08-23,Soundcloud Pro subscription,81112105,9df7ccc8497711e58a1e0cc47a131e1e,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-58.00,-38.17,0.00,0.00,0.00,2015-09-04,Nationbuilder subscription,81112105,206113,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-6.41,0.00,0.00,0.00,2015-09-20,Twibbon Pro subscription,81112105,5d5c2dc4-1253-48f0-8631-a51900d8d5c7,F,campaigning costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-09-22,Soundcloud Pro subscription,81112105,97ba7bf8610a11e5a25b0cc47a131f9a,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-78.00,-51.58,0.00,0.00,0.00,2015-10-04,Nationbuilder subscription,81112105,215359,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-6.47,0.00,0.00,0.00,2015-10-20,Twibbon Pro subscription,81112105,a6291abc-59ac-4444-bbaa-a53700d74b66,F,campaigning costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-10-22,Soundcloud Pro subscription,81112105,8af4b5f0789d11e5b35f0cc47a205fdc,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-68.00,-44.28,0.00,0.00,0.00,2015-11-04,Nationbuilder subscription,81112105,224314,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-6.56,0.00,0.00,0.00,2015-11-20,Twibbon Pro subscription,81112105,ea16136a-6a2b-4d53-b163-a55600d78585,F,campaigning costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-11-21,Soundcloud Pro subscription,81112105,83d4c1a2903011e58f1a002590ed1554,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-19.00,-12.65,0.00,0.00,0.00,2015-12-04,Nationbuilder subscription,81112105,188289,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-6.73,0.00,0.00,0.00,2015-12-20,Twibbon Pro subscription,81112105,e72f0ec7-8814-47db-8eee-a57400d7bae5,F,campaigning costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2015-12-21,Soundcloud Pro subscription,81112105,7fceb0fea7c311e5a9b60cc47a152e76,F,office costs,,
+James Smith,a78599e307,NationBuilder,https://opencorporates.com/companies/us_de/4891678,,USD,-19.00,-12.93,0.00,0.00,0.00,2016-01-04,Nationbuilder subscription,81112105,188289,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-7.08,0.00,0.00,0.00,2016-01-20,Twibbon Pro subscription,81112105,f049b0e9-2999-4c23-a62a-a59300d834a5,F,campaigning costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,0.00,2016-01-20,Soundcloud Pro subscription,81112105,75ecc63ebf5611e5abc80cc47a121748,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,4.63,2016-02-09,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-5.00,-3.57,0.00,-3.57,1.06,2016-02-11,Discourse server hosting,81161600,5CS44348RV419724S,F,office costs,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,1.06,2016-02-19,Soundcloud Pro subscription,81112105,72013442d6e911e5b00e002590ed1554,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-7.02,0.00,0.00,1.06,2016-02-20,Twibbon Pro subscription,81112105,15176633-4c98-4269-a25b-a5b200d93b78,F,campaigning costs,,
+James Smith,a78599e307,PostLayer,https://opencorporates.com/companies/us_tx/0800566831,,USD,-30.00,-7.84,0.00,0.00,1.06,2016-02-21,Email spam filtering,81161600,424284,F,office costs,,
+Bruno Antunes,,,,Paypal,GBP,,10.00,-0.54,9.46,10.52,2016-03-02,Donation,,,,donation,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,15.15,2016-03-09,Donation,,,,donation,,
+Antonio Borza,,,,Paypal,GBP,,10.00,-0.54,9.46,24.61,2016-03-14,Donation,,,,donation,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,24.61,2016-03-20,Soundcloud Pro subscription,81112105,6be1d1d4ee7c11e59d66002590ed1aa6,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-6.94,0.00,0.00,24.61,2016-03-20,Twibbon Pro subscription,81112105,6f58e643-ad9e-450a-b508-a5cf00d98b41,F,campaigning costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-7.32,0.00,-7.32,17.29,2016-04-09,Discourse server hosting,81161600,3HS607450S697925Y,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,21.92,2016-04-09,Donation,,,,donation,,
+James Smith,a78599e307,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,0.00,21.92,2016-04-19,Soundcloud Pro subscription,81112105,631010de060f11e698de002590ed1ace,F,office costs,,
+James Smith,a78599e307,Twibbon,https://opencorporates.com/companies/gb/SC344051,,USD,-10.00,-6.97,0.00,0.00,21.92,2016-04-20,Twibbon Pro subscription,81112105,433299f4-bb7f-4414-8a54-a5ee00d7a8a2,F,campaigning costs,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,17.93,2016-04-24,Soundcloud Pro subscription,81112105,a1cf5dd00a6411e6a7e90cc47ab20604,F,office costs,,
+Campaign: parl.horsham.2015-05-07,,,,Paypal,GBP,,17.80,0.00,17.80,35.73,2016-04-24,Transfer from campaign funds,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-7.07,0.00,-7.07,28.66,2016-04-29,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,33.29,2016-05-09,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,29.30,2016-05-24,Soundcloud Pro subscription,81112105,371ca75821f811e6b1a70cc47a1526d6,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,33.93,2016-06-09,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-7.22,0.00,-7.22,26.71,2016-06-18,Discourse server hosting,81161600,,F,office costs,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,28.92,2016-06-20,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,24.93,2016-06-23,Soundcloud Pro subscription,81112105,36239dc0398b11e69193002590ed1100,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,29.56,2016-07-09,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-5.00,-3.92,0.00,-3.92,25.64,2016-07-15,Discourse server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-5.00,-3.92,0.00,-3.92,21.72,2016-07-15,Discourse server hosting,81161600,,F,office costs,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,23.93,2016-07-20,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,19.94,2016-07-23,Soundcloud Pro subscription,81112105,31491280511e11e688230cc47a152e7e,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-7.74,0.00,-7.74,12.20,2016-08-03,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,16.83,2016-08-09,Donation,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,19.04,2016-08-20,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,15.05,2016-08-22,Soundcloud Pro subscription,81112105,3345c79068b111e6a6c70cc47a205fbe,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-7.89,0.00,-7.89,7.16,2016-08-29,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,11.79,2016-09-09,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-7.92,0.00,-7.92,3.87,2016-09-20,Discourse server hosting,81161600,,F,office costs,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,6.08,2016-09-20,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,2.09,2016-09-21,Soundcloud Pro subscription,81112105,3177b900804411e6a749002590ed1212,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,6.72,2016-10-09,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-25.00,-21.18,0.00,-21.18,-14.46,2016-10-16,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,20.00,-0.88,19.12,4.66,2016-10-16,Donation,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,6.87,2016-10-20,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,2.88,2016-10-22,Soundcloud Pro subscription,81112105,1716769097e211e6bb8f0cc47a152550,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,7.51,2016-11-09,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,3.52,2016-11-20,Soundcloud Pro subscription,81112105,1b8b0a70af6a11e68eca0cc47a1524be,F,office costs,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,5.73,2016-11-20,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-8.32,0.00,-8.32,-2.59,2016-11-29,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,10.00,-0.54,9.46,6.87,2016-11-29,Donation,,,,donation,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,11.50,2016-12-09,Donation,,,,donation,,
+Philip John,,,,Paypal,GBP,,10.00,-0.54,9.46,20.96,2016-12-16,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,16.97,2016-12-20,Soundcloud Pro subscription,81112105,1a6793c0c6fd11e69a900cc47a121742,F,office costs,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,19.18,2016-12-20,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-8.42,0.00,-8.42,10.76,2016-12-26,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,15.39,2017-01-09,Donation,,,,donation,,
+Philip John,,,,Paypal,GBP,,10.00,-0.54,9.46,24.85,2017-01-16,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-8.36,0.00,-8.36,16.49,2017-01-17,Discourse server hosting,81161600,,F,office costs,,
+,,GANDI International,https://opencorporates.com/companies/lu/B173775,,GBP,,-8.00,0.00,-8.00,8.49,2017-01-17,Domain registration,81112107,,A,office costs,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,4.50,2017-01-19,Soundcloud Pro subscription,81112105,0f6a7230de9011e6b69102420a901f08,F,office costs,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,6.71,2017-01-20,Donation,,,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,11.34,2017-01-20,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-8.29,0.00,-8.29,3.05,2017-01-31,Discourse server hosting,81161600,,F,office costs,,
+Michael Dales,c8ed107810,,,Paypal,GBP,,20.00,-0.88,19.12,22.17,2017-01-31,Donation,,,,donation,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,26.80,2017-02-09,Donation,,,,donation,,
+Philip John,,,,Paypal,GBP,,10.00,-0.54,9.46,36.26,2017-02-16,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,32.27,2017-02-18,Soundcloud Pro subscription,81112105,0bd5ad60f62311e6a97f02420a902310,F,office costs,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,34.48,2017-02-21,Donation,,,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,39.11,2017-02-21,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-25.00,-20.72,0.00,-20.72,18.39,2017-02-25,Discourse server hosting,81161600,,F,office costs,,
+Philip John,,"Facebook Ireland, Ltd.",https://opencorporates.com/companies/ie/462932,,GBP,,-8.00,0.00,0.00,18.39,2017-02-28,Facebook advertising,82101603,1385691338211896-2398485,A,campaigning costs,,
+Michael Dales,c8ed107810,,,Paypal,GBP,,20.00,-0.88,19.12,37.51,2017-03-01,Donation,,,,donation,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,42.14,2017-03-09,Donation,,,,donation,,
+Philip John,,,,Paypal,GBP,,10.00,-0.54,9.46,51.60,2017-03-16,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,47.61,2017-03-20,Soundcloud Pro subscription,81112105,b52c55800db611e7a1ff0a580a91117a,F,office costs,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,49.82,2017-03-20,Donation,,,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,54.45,2017-03-20,Donation,,,,donation,,
+James Smith,a78599e307,,,Paypal,GBP,,10.00,-0.54,9.46,63.91,2017-03-28,Donation to local.2017-05-04 campaign,,,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,50.00,-1.90,48.10,112.01,2017-03-29,Donation to local.2017-05-04 campaign,,,,donation,,
+,5e5490df94,,,Paypal,GBP,,5.00,-0.37,4.63,116.64,2017-03-29,Donation,,,,donation,,
+,5225e02231,,,Paypal,GBP,,10.00,-0.54,9.46,126.10,2017-03-30,Donation to local.2017-05-04 campaign,,,,donation,,
+Michael Dales,c8ed107810,,,Paypal,GBP,,20.00,-0.88,19.12,145.22,2017-03-31,Donation,,,,donation,,
+,b962353fbd,,,Paypal,GBP,,10.00,-0.54,9.46,154.68,2017-04-01,Donation to local.2017-05-04 campaign,,,,donation,,
+James Smith,a78599e307,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-5.33,,0.00,0.00,154.68,2017-04-01,Heroku server hosting,81161600,10952349,F,office costs,,
+,c20457dbe6,,,Paypal,GBP,,10.00,-0.54,9.46,164.14,2017-04-09,Donation to local.2017-05-04 campaign,,,,donation,,
+James Smith,a78599e307,,,Paypal,GBP,,5.00,-0.37,4.63,168.77,2017-04-09,Donation,,,,donation,,
+,729f9a6fbd,,,Paypal,GBP,,2.00,-0.27,1.73,170.50,2017-04-14,Donation to local.2017-05-04 campaign,,,,donation,,
+,,GANDI International,https://opencorporates.com/companies/lu/B173775,,GBP,,-29.80,0.00,-29.80,140.70,2017-04-16,Domain registration,,,A,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-10.00,-8.26,0.00,-8.26,132.44,2017-04-16,Discourse server hosting,81161600,,F,office costs,,
+Philip John,,,,Paypal,GBP,,10.00,-0.54,9.46,141.90,2017-04-16,Donation,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,137.91,2017-04-19,Soundcloud Pro subscription,81112105,,F,office costs,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,140.12,2017-04-20,Donation,,,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,144.75,2017-04-20,Donation,,,,donation,,
+Tim Organ,,,,Paypal,GBP,,50.00,-1.90,48.10,192.85,2017-04-21,Donation to local.2017-05-04 campaign,,,,donation,,
+,2a2418b181,,,Paypal,GBP,,10.00,-0.54,9.46,202.31,2017-04-21,Donation,,,,donation,,
+Anne Taylor,,,,Paypal,GBP,,80.00,-2.92,77.08,279.39,2017-04-24,Donation to local.2017-05-04 campaign,,,,donation,,
+,,Crowdfunder Limited,https://opencorporates.com/companies/gb/07831511,,GBP,,-13.32,0.00,-13.32,266.07,2017-04-25,Crowdfunder fees,,,F,fundraising costs,,
+,,Campaign: local.staffordshire.lichfield-city-north.2017-05-04,,,GBP,,-187.77,0.00,-187.77,78.30,2017-04-25,Disbursement of donations to campaign,,,,campaigning costs,,
+,,Campaign: local.west-sussex.holbrook.2017-05-04,,,GBP,,-34.23,0.00,-34.23,44.07,2017-04-25,Disbursement of donations to campaign,,,,campaigning costs,,
+James Smith,a78599e307,,,Stripe,GBP,,10.00,-0.40,9.60,53.67,2017-04-29,Donation to parl.2017-06-08 campaign,,,,donation,,
+,f595d71d06,,,Stripe,GBP,,50.00,-2.00,48.00,101.67,2017-04-30,Donation to parl.2017-06-08 campaign,,,,donation,,
+Michael Dales,c8ed107810,,,Paypal,GBP,,20.00,-0.88,19.12,120.79,2017-05-01,Donation,,,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-2.42,-1.88,-0.05,-1.93,118.86,2017-05-01,Heroku server hosting,81161600,11292744,F,office costs,,
+Rebecca Robinson,,,,Stripe,GBP,,25.00,-1.00,24.00,142.86,2017-05-02,Donation to parl.2017-06-08 campaign,,,,donation,,
+,9badd7b70d,,,Stripe,GBP,,10.00,-0.40,9.60,152.46,2017-05-04,Donation to parl.2017-06-08 campaign,,,,donation,,
+Leigh Dodds,,,,Stripe,GBP,,20.00,-0.80,19.20,171.66,2017-05-05,Donation to parl.2017-06-08 campaign,,,,donation,,
+,f81bc5879b,,,Stripe,GBP,,10.00,-0.40,9.60,181.26,2017-05-05,Donation to parl.2017-06-08 campaign,,,,donation,,
+,6eac11dc71,,,Stripe,GBP,,10.00,-0.40,9.60,190.86,2017-05-05,Donation to parl.2017-06-08 campaign,,,,donation,,
+Julie Freeman,,,,Stripe,GBP,,20.00,-0.80,19.20,210.06,2017-05-05,Donation to parl.2017-06-08 campaign,,,,donation,,
+,8ef92dba1f,,,Stripe,GBP,,3.00,-0.12,2.88,212.94,2017-05-05,Donation to parl.2017-06-08 campaign,,,,donation,,
+Anne Taylor,,,,Stripe,GBP,,100.00,-4.00,96.00,308.94,2017-05-07,Donation to parl.2017-06-08 campaign,,,,donation,,
+,fbcf919427,,,Stripe,GBP,,10.00,-0.40,9.60,318.54,2017-05-08,Donation to parl.2017-06-08 campaign,,,,donation,,
+,1bd5a356be,,,Stripe,GBP,,20.00,-0.80,19.20,337.74,2017-05-08,Donation to parl.2017-06-08 campaign,,,,donation,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,342.47,2017-05-09,Membership donation,,,,donation,,
+Philip John,,,,Stripe,GBP,,5.00,-0.27,4.73,347.20,2017-05-09,Membership donation,,,,donation,,
+Nik Butler,,,,Stripe,GBP,,500.00,-20.00,480.00,827.20,2017-05-10,Donation to parl.2017-06-08 campaign,,,,donation,,
+,8dc14789bc,,,Stripe,GBP,,10.00,-0.40,9.60,836.80,2017-05-10,Donation to parl.2017-06-08 campaign,,,,donation,,
+,a9c7f262dc,,,Stripe,GBP,,20.00,-0.80,19.20,856.00,2017-05-10,Donation to parl.2017-06-08 campaign,,,,donation,,
+,317efd0afd,,,Stripe,GBP,,25.00,-1.00,24.00,880.00,2017-05-11,Donation to parl.2017-06-08 campaign,,,,donation,,
+,1b8d992624,,,Stripe,GBP,,20.00,-0.80,19.20,899.20,2017-05-11,Donation to parl.2017-06-08 campaign,,,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,923.65,2017-05-13,Membership donation,,,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,928.38,2017-05-13,Membership donation,,,,donation,,
+,2a2418b181,,,Stripe,GBP,,25.00,-0.55,24.45,952.83,2017-05-13,Membership donation,,,,donation,,
+,47ed1ab010,,,Stripe,GBP,,10.00,-0.40,9.60,962.43,2017-05-14,Donation to parl.2017-06-08 campaign,,,,donation,,
+Philip John,,,,Paypal,GBP,,10.00,-0.54,9.46,971.89,2017-05-16,Donation,,,,donation,,
+Adam Hinchliff,,,,Stripe,GBP,,15.00,-0.60,14.40,986.29,2017-05-17,Donation to parl.2017-06-08 campaign,,,,donation,,
+,48ec1f8c5c,,,Stripe,GBP,,10.00,-0.40,9.60,995.89,2017-05-17,Donation to parl.2017-06-08 campaign,,,,donation,,
+Edafe Onerhime,,,,Stripe,GBP,,10.00,-0.40,9.60,1005.49,2017-05-17,Donation to parl.2017-06-08 campaign,,,,donation,,
+,b138ca0be5,,,Stripe,GBP,,10.00,-0.40,9.60,1015.09,2017-05-17,Donation to parl.2017-06-08 campaign,,,,donation,,
+,c7857d2f65,,,Stripe,GBP,,10.00,-0.40,9.60,1024.69,2017-05-17,Donation to parl.2017-06-08 campaign,,,,donation,,
+,8d838192a3,,,Stripe,GBP,,25.00,-1.00,24.00,1048.69,2017-05-17,Donation to parl.2017-06-08 campaign,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,1044.70,2017-05-19,Soundcloud Pro subscription,81112105,9ea4bbf03cdb11e7ab1b0a580a90944f,F,office costs,,
+,74fdda6c26,,,Stripe,GBP,,25.00,-1.00,24.00,1068.70,2017-05-19,Donation to parl.2017-06-08 campaign,,,,donation,,
+,ba528cb1a1,,,Stripe,GBP,,50.00,-2.00,48.00,1116.70,2017-05-19,Donation to parl.2017-06-08 campaign,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,1118.91,2017-05-20,Donation,,,,donation,,
+Nigel Sharp,ac0046818e,,,Stripe,GBP,,25.00,-1.00,24.00,1142.91,2017-05-25,Donation to parl.2017-06-08 campaign,,,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1147.54,2017-05-25,Donation,,,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-16.59,-12.93,-0.35,-13.28,1134.26,2017-06-01,Discourse server hosting,81161600,114353892,F,office costs,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-1.07,-0.85,-0.02,-0.87,1133.39,2017-06-01,Heroku server hosting,81161600,,F,office costs,,
+,f9b1ae2bca,,,Stripe,GBP,,25.00,-0.55,24.45,1157.84,2017-06-06,Membership donation,,,,donation,,
+Leigh Dodds,,,,Stripe,GBP,,20.00,-0.80,19.20,1177.04,2017-06-08,Donation to parl.2017-06-08 campaign,,,,donation,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1181.77,2017-06-09,Membership donation,,,,donation,,
+Philip John,,,,Stripe,GBP,,5.00,-0.27,4.73,1186.50,2017-06-09,Membership donation,,,,donation,,
+,6e223045ee,,,Stripe,GBP,,20.00,-0.80,19.20,1205.70,2017-06-09,Donation to parl.2017-06-08 campaign,,,,donation,,
+Rebecca Robinson,,,,Stripe,GBP,,25.00,-1.00,24.00,1229.70,2017-06-09,Donation to parl.2017-06-08 campaign,,,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1254.15,2017-06-13,Membership donation,,,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1258.88,2017-06-13,Membership donation,,,,donation,,
+,685a2b37b5,,,Stripe,GBP,,20.00,-0.48,19.52,1278.40,2017-06-13,Membership donation,,,,donation,,
+,205e82d9b7,,,Stripe,GBP,,25.00,-1.00,24.00,1302.40,2017-06-15,Donation to parl.2017-06-08 campaign,,,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,1298.41,2017-06-18,Soundcloud Pro subscription,81112105,e1d79ff0546e11e7bd460a580a90671f,F,office costs,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1303.04,2017-06-20,Donation,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,1305.25,2017-06-20,Donation,,,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1309.98,2017-06-23,Membership donation,,txn_1AXkAtFFUnJJfACl0M1Ah7ev,,donation,,
+,,"Facebook Ireland, Ltd.",https://opencorporates.com/companies/ie/462932,,GBP,,-10.00,0.00,-10.00,1299.98,2017-06-30,Facebook advertising,82101603,,A,campaigning costs,,
+,e01c4f60e7,,,Stripe,GBP,,25.00,-0.55,24.45,1324.43,2017-06-30,Membership donation,,txn_1AaPn8FFUnJJfAClfuVRN6Lt,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-19.36,-15.09,-0.41,-15.50,1308.93,2017-07-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.12,-0.30,-11.42,1297.51,2017-07-01,Discourse server hosting,81161600,,F,office costs,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1302.24,2017-07-09,Membership donation,,txn_1AdXikFFUnJJfACltaPihHnC,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1326.69,2017-07-13,Membership donation,,txn_1AezhWFFUnJJfACl3wjJqSew,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1331.42,2017-07-13,Membership donation,,txn_1AezhbFFUnJJfAClZ636Zcyl,,donation,,
+,,,,Stripe,GBP,,20.00,-0.48,19.52,1350.94,2017-07-13,Membership donation,,txn_1AezhfFFUnJJfAClTyH9j3zz,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1355.67,2017-07-17,Membership donation,,txn_1AgiW1FFUnJJfAClRXeYvYOx,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,1351.68,2017-07-18,Soundcloud Pro subscription,81112105,de3769706c0111e7ba580a580a928652-0001,A,campaigning costs,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1356.31,2017-07-20,Donation,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,1358.52,2017-07-20,Donation,,,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1363.25,2017-07-23,Membership donation,,txn_1AicDNFFUnJJfAClRZRhs8is,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-14.30,-11.03,-0.30,-11.33,1351.92,2017-08-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.92,-0.30,-11.22,1340.70,2017-08-01,Discourse server hosting,81161600,,F,office costs,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1345.43,2017-08-09,Membership donation,,txn_1AomXgFFUnJJfAClTS3kutA5,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1350.16,2017-08-09,Membership donation,,txn_1AomXsFFUnJJfAClc3PMkOMv,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1374.61,2017-08-13,Membership donation,,txn_1AqEX2FFUnJJfAClKuUJZ6J2,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1379.34,2017-08-13,Membership donation,,txn_1AqEX7FFUnJJfACl8DLvQadd,,donation,,
+,,,,Stripe,GBP,,20.00,-0.48,19.52,1398.86,2017-08-13,Membership donation,,txn_1AqEXCFFUnJJfAClkKs3Nfad,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,1394.87,2017-08-17,Soundcloud Pro subscription,81112105,d7d04ac0839411e7b78a0a580a928546-0001,F,office costs,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1399.50,2017-08-20,Donation,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,1401.71,2017-08-20,Donation,,,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1406.44,2017-08-23,Membership donation,,txn_1Atr1HFFUnJJfAClAWDWnKb2,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-15.48,-11.74,-0.32,-12.06,1394.38,2017-09-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.17,-0.30,-11.47,1382.91,2017-09-01,Discourse server hosting,81161600,,F,office costs,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1387.64,2017-09-09,Membership donation,,txn_1B01FSFFUnJJfAClLrdWnhWp,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1392.37,2017-09-09,Membership donation,,txn_1B01FYFFUnJJfAClM53UO4i7,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1416.82,2017-09-13,Membership donation,,txn_1B1TGlFFUnJJfAClxBYIM3ki,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1421.55,2017-09-13,Membership donation,,txn_1B1TGqFFUnJJfAClXyRxeC9Q,,donation,,
+,,,,Stripe,GBP,,20.00,-0.48,19.52,1441.07,2017-09-13,Membership donation,,txn_1B1TGvFFUnJJfACl9t1E2UD3,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,1437.08,2017-09-16,Soundcloud Pro subscription,81112105,cf6127109b2711e7b88b0a580a929a30-0001,F,office costs,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1441.71,2017-09-20,Donation,,,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1446.44,2017-09-23,Membership donation,,txn_1B55sUFFUnJJfAClVh0qxVKK,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-14.03,-10.69,-0.29,-10.98,1435.46,2017-10-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.79,-0.29,-11.08,1424.38,2017-10-01,Discourse server hosting,81161600,,F,office costs,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1429.11,2017-10-09,Membership donation,,txn_1BAtbUFFUnJJfACln0cvU7Eb,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1433.84,2017-10-09,Membership donation,,txn_1BAtbZFFUnJJfAClpWakggk8,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1458.29,2017-10-13,Membership donation,,txn_1BCLb9FFUnJJfAClUHGonjQn,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1463.02,2017-10-13,Membership donation,,txn_1BCLbGFFUnJJfAClfxmMJNBr,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,1459.03,2017-10-16,Soundcloud Pro subscription,81112105,ca917140b2ba11e7b7140a580a925050-0001,F,office costs,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1463.66,2017-10-20,Donation,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,1465.87,2017-10-20,Donation,,,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1470.60,2017-10-23,Membership donation,,txn_1BFy6hFFUnJJfAClDPYSKxUC,,donation,,
+,,Electoral Commission,http://www.electoralcommission.org.uk/,,GBP,,-25.00,0.00,-25.00,1445.60,2017-10-25,Party registration renewal,93111602,,F,miscellaneous,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-17.95,-13.72,-0.37,-14.09,1431.51,2017-11-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.88,-0.29,-11.17,1420.34,2017-11-01,Discourse server hosting,81161600,,F,office costs,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1425.07,2017-11-09,Membership donation,,txn_1BM9SzFFUnJJfACl9ktTGCUf,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1449.52,2017-11-13,Membership donation,,txn_1BNb07FFUnJJfACl9bY7OfMR,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1454.25,2017-11-13,Membership donation,,txn_1BNb0PFFUnJJfAClGbfG1wji,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,1450.26,2017-11-15,Soundcloud Pro subscription,81112105,bf282060ca4d11e79c660a580a903d0c-0001,F,office costs,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1454.89,2017-11-20,Donation,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,1457.10,2017-11-20,Donation,,,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1461.83,2017-11-23,Membership donation,,txn_1BRDyiFFUnJJfAClm7WicdS3,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-23.55,-17.67,-0.48,-18.15,1443.68,2017-12-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.71,-0.29,-11.00,1432.68,2017-12-01,Discourse server hosting,81161600,,F,office costs,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1437.41,2017-12-09,Membership donation,,txn_1BX1cBFFUnJJfAClVuc8rLvn,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1461.86,2017-12-13,Membership donation,,txn_1BYTcsFFUnJJfAClSherMPB1,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1466.59,2017-12-13,Membership donation,,txn_1BYTcyFFUnJJfACl7IeO9iG7,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,,GBP,,-3.99,0.00,-3.99,1462.60,2017-12-15,Soundcloud Pro subscription,81112105,b9edc1e0e1e011e7a51b0a580a901199-0001,F,office costs,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1467.23,2017-12-20,Donation,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,1469.44,2017-12-20,Donation,,,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1474.17,2017-12-23,Membership donation,,txn_1Bc6IYFFUnJJfAClUvHFWnIA,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-30.49,-22.22,-0.61,-22.83,1451.34,2018-01-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.76,-0.29,-11.05,1440.29,2018-01-01,Discourse server hosting,81161600,,F,office costs,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1445.02,2018-01-09,Membership donation,,txn_1BiGXMFFUnJJfACl6Uonxvsx,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1469.47,2018-01-13,Membership donation,,txn_1BjiWNFFUnJJfACl6ZxcdSbF,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1474.20,2018-01-13,Membership donation,,txn_1BjiWTFFUnJJfACltgKrKoqN,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,Paypal,GBP,,-3.99,0.00,-3.99,1470.21,2018-01-14,Soundcloud Pro subscription,81112105,b036b4e0f97311e7ab130a580a92fac9-0001,F,office costs,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,1472.42,2018-01-20,Donation,,,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1477.05,2018-01-20,Donation,,,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1481.78,2018-01-23,Membership donation,,txn_1BnL8HFFUnJJfAClBMs1263Y,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-50.15,-36.35,-0.99,-37.34,1444.44,2018-02-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.17,-0.27,-10.44,1434.00,2018-02-01,Discourse server hosting,81161600,,F,office costs,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1438.73,2018-02-09,Membership donation,,txn_1BtVO8FFUnJJfAClQymLxxsJ,,donation,,
+,,GANDI International,https://opencorporates.com/companies/lu/B173775,,GBP,,-6.00,0.00,-6.00,1432.73,2018-02-10,Domain registration,,2018021000237,A,office costs,,
+,,GANDI International,https://opencorporates.com/companies/lu/B173775,,GBP,,-12.00,0.00,-12.00,1420.73,2018-02-10,Domain registration,,2018021000235,A,office costs,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,Paypal,GBP,,-3.99,0.00,-3.99,1416.74,2018-02-13,Soundcloud Pro subscription,81112105,a916cd80110611e882300a580a901f6a-0001,F,office costs,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1441.19,2018-02-13,Membership donation,,txn_1BuwuHFFUnJJfAClfZRVyROt,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1445.92,2018-02-13,Membership donation,,txn_1BuwuNFFUnJJfACluDByRNMa,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1450.55,2018-02-20,Donation,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,1452.76,2018-02-20,Donation,,,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1457.49,2018-02-20,Membership donation,,txn_1BxcTnFFUnJJfAClEIxtdUCz,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1462.22,2018-02-23,Membership donation,,txn_1ByZuyFFUnJJfAClTJgtpe42,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-29.31,-21.13,-0.58,-21.71,1440.51,2018-03-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.50,-0.28,-10.78,1429.73,2018-03-01,Discourse server hosting,81161600,,F,office costs,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1434.46,2018-03-09,Membership donation,,txn_1C3eHqFFUnJJfAClUpUNJrQ4,,donation,,
+,,GANDI International,https://opencorporates.com/companies/lu/B173775,,GBP,,-31.80,0.00,-31.80,1402.66,2018-03-11,Domain registration,,2018031100273,A,office costs,,GANDI International
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1427.11,2018-03-13,Membership donation,,txn_1C56GaFFUnJJfACl4CNuRFur,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1431.84,2018-03-13,Membership donation,,txn_1C56GgFFUnJJfACleV7353ms,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,Paypal,GBP,,-3.99,0.00,-3.99,1427.85,2018-03-15,Soundcloud Pro subscription,81112105,a1da8480289911e888490a580a901640-0001,F,office costs,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5.00,-0.37,4.63,1432.48,2018-03-20,Donation,,,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.50,-0.29,2.21,1434.69,2018-03-20,Donation,,,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1439.42,2018-03-20,Membership donation,,txn_1C7djvFFUnJJfAClQrW9XlEM,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1444.15,2018-03-23,Membership donation,,txn_1C8jGQFFUnJJfAClsmtobSAf,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.28,-0.28,-10.56,1433.59,2018-04-01,Discourse server hosting,81161600,,F,office costs,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-27.17,-19.21,-0.52,-19.73,1413.86,2018-04-01,Heroku server hosting,81161600,,F,office costs,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1418.59,2018-04-09,Membership donation,,txn_1CEsYCFFUnJJfACldPhn9pQH,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1423.32,2018-04-10,Membership donation,,txn_1CFOMVFFUnJJfAClZC56e3pn,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1447.77,2018-04-13,Membership donation,,txn_1CGK4HFFUnJJfACluUWe08JG,,donation,,
+,,,,Stripe,GBP,,5.00,-0.27,4.73,1452.50,2018-04-13,Membership donation,,txn_1CGK4QFFUnJJfAClxxJ1FByZ,,donation,,
+,,SoundCloud Ltd,https://opencorporates.com/companies/gb/06343600,Paypal,GBP,,-3.99,0,-3.99,1448.51,2018-04-14,Soundcloud Pro subscription,81112105,12P1278978736711A,F,office costs,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1453.14,2018-04-20,Donation,,4DN58281ML273045K,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1455.35,2018-04-20,Donation,,24V051339P5537032,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1460.08,2018-04-20,Membership donation,,txn_1CIrYGFFUnJJfAClOvMMMdEC,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1464.81,2018-04-23,Membership donation,,txn_1CJx2oFFUnJJfAClLkCvWIzC,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-47.53,-35.32,-0.97,-36.29,1428.52,2018-05-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.60,-0.29,-10.89,1417.63,2018-05-01,Discourse server hosting,81161600,,F,office costs,,
+,b5ae2ddfd5,,,Stripe,GBP,,5.00,-0.27,4.73,1422.36,2018-05-10,Membership donation,,ch_1CQ6uLFFUnJJfAClPeYAEKDy,,donation,,
+,8e24207915,,,Stripe,GBP,,25.00,-0.55,24.45,1446.81,2018-05-13,Membership donation,,ch_1CRCOdFFUnJJfAClN6QgnqtU,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1451.54,2018-05-13,Membership donation,,ch_1CRCOiFFUnJJfAClXDwiMLPi,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1475.99,2018-05-13,Membership donation,,ch_1CRCOUFFUnJJfAClIwnzswwz,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1480.62,2018-05-20,Donation,,5UJ64835HH1514619,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1482.83,2018-05-20,Donation,,8B689131AB743500R,,donation,,
+,58d876e5a2,,,Stripe,GBP,,5.00,-0.27,4.73,1487.56,2018-05-20,Membership donation,,ch_1CTjulFFUnJJfAClIO0RMS0I,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1492.29,2018-05-23,Membership donation,,ch_1CUpSJFFUnJJfAClsW3zg2LN,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-15.99,-12.02,-0.33,-12.35,1479.94,2018-06-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.87,-0.29,-11.16,1468.78,2018-06-01,Discourse server hosting,81161600,,F,office costs,,
+,f9b1ae2bca,,,Stripe,GBP,,25.00,-0.55,24.45,1493.23,2018-06-06,Membership donation,,ch_1CZu5yFFUnJJfACl8qfq1pJ9,,donation,,
+,b5ae2ddfd5,,,Stripe,GBP,,5.00,-0.27,4.73,1497.96,2018-06-10,Membership donation,,ch_1CbM5YFFUnJJfAClPnnEADlq,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1502.69,2018-06-13,Membership donation,,ch_1CcR6yFFUnJJfAClrjvtSWnY,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1527.14,2018-06-13,Membership donation,,ch_1CcR6sFFUnJJfAClVo0sQ4G2,,donation,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1531.87,2018-06-14,Membership donation,,ch_1Cd4YIFFUnJJfACliMbm6RVG,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1536.50,2018-06-20,Donation,,51T384193M051790N,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1538.71,2018-06-20,Donation,,7GS13027LG197670L,,donation,,
+,58d876e5a2,,,Stripe,GBP,,5.00,-0.27,4.73,1543.44,2018-06-20,Membership donation,,ch_1CeyZvFFUnJJfAClPzsV7pYZ,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1548.17,2018-06-23,Membership donation,,ch_1Cg44pFFUnJJfAClbgIp9enk,,donation,,
+,e01c4f60e7,,,Stripe,GBP,,25.00,-0.55,24.45,1572.62,2018-06-30,Membership donation,,ch_1CibXeFFUnJJfAClNW8zlRZ2,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-26.55,-20.12,-0.55,-20.67,1551.95,2018-07-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.02,-0.30,-11.32,1540.63,2018-07-01,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1545.36,2018-07-09,Membership donation,,ch_1ClrZrFFUnJJfACltqveZGLW,,donation,,
+,b5ae2ddfd5,,,Stripe,GBP,,5.00,-0.27,4.73,1550.09,2018-07-10,Membership donation,,ch_1CmE4LFFUnJJfACl49xjISeX,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1554.82,2018-07-13,Membership donation,,ch_1CnJY4FFUnJJfAClLsyepsIe,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1579.27,2018-07-13,Membership donation,,ch_1CnJY0FFUnJJfAClR9M1fokx,,donation,,
+,,GANDI International,https://opencorporates.com/companies/lu/B173775,,GBP,,-15.83,0.00,-15.83,1563.44,2018-07-15,Domain registration,,2018071500455,A,office costs,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1568.07,2018-07-20,Donation,,3L571898MX6447732,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1570.28,2018-07-20,Donation,,07C05833DH6810729,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1575.01,2018-07-23,Membership donation,,ch_1CqwUEFFUnJJfAClVkYn2GPm,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-27.23,-21.24,-0.58,-21.82,1553.19,2018-08-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.00,-0.30,-11.30,1541.89,2018-08-01,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1546.62,2018-08-09,Membership donation,,ch_1Cx6gEFFUnJJfAClbbXjkZft,,donation,,
+,b5ae2ddfd5,,,Stripe,GBP,,5.00,-0.27,4.73,1551.35,2018-08-10,Membership donation,,ch_1CxTAjFFUnJJfAClHbctK9bJ,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1556.08,2018-08-13,Membership donation,,ch_1CyYBRFFUnJJfAClL6SHaJbN,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1580.53,2018-08-13,Membership donation,,ch_1CyYBOFFUnJJfACljWIXiDrq,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1582.74,2018-08-20,Donation,,5S0870050L2113137,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1587.37,2018-08-20,Donation,,8FP62881PK933304A,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1592.10,2018-08-23,Membership donation,,ch_1D2B6qFFUnJJfACldS8Iop5T,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-31.19,-23.95,-0.65,-24.60,1567.50,2018-09-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.12,-0.30,-11.42,1556.08,2018-09-01,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1560.81,2018-09-09,Membership donation,,ch_1D8LI6FFUnJJfACl3ZX9Aj8E,,donation,,
+,,Electoral Commission,http://www.electoralcommission.org.uk/,,GBP,,-25.00,0.00,-25.00,1535.81,2018-09-12,Party registration renewal,93111602,,F,miscellaneous,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1540.54,2018-09-13,Membership donation,,ch_1D9nGNFFUnJJfAClmedMhYSL,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1564.99,2018-09-13,Membership donation,,ch_1D9nGJFFUnJJfAClw44VNo1r,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1567.20,2018-09-20,Donation,,1R895623X30978839,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1571.83,2018-09-20,Donation,,2U727324T84305419,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1576.56,2018-09-23,Membership donation,,ch_1DDPisFFUnJJfAClVUsiUyVd,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-16.35,-12.55,-0.34,-12.89,1563.67,2018-10-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.07,-0.30,-11.37,1552.30,2018-10-01,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1557.03,2018-10-09,Membership donation,,ch_1DJDSvFFUnJJfAClrDLPBhGg,,donation,,
+,15ad810fdb,,,Stripe,GBP,,5.00,-0.27,4.73,1561.76,2018-10-11,Membership donation,,ch_1DK9w3FFUnJJfAClkckpDi56,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1566.49,2018-10-13,Membership donation,,ch_1DKfRDFFUnJJfAClaLJQneLS,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1590.94,2018-10-13,Membership donation,,ch_1DKfR9FFUnJJfAClB9JDZJ6m,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1595.57,2018-10-20,Donation,,4SU77036TT167134D,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1597.78,2018-10-20,Donation,,31E02556V1130491G,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1602.51,2018-10-23,Membership donation,,ch_1DOIMSFFUnJJfAClwZbth6Rl,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-28.67,-22.35,-0.61,-22.96,1579.55,2018-11-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.29,-0.31,-11.60,1567.95,2018-11-01,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1572.68,2018-11-09,Membership donation,,ch_1DUTCRFFUnJJfAClLmLpJAdi,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1577.41,2018-11-13,Membership donation,,ch_1DVvAbFFUnJJfAClVQckGczb,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1601.86,2018-11-13,Membership donation,,ch_1DVvAYFFUnJJfAClqoaRt1BH,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1604.07,2018-11-20,Donation,,21E3834523331005N,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1608.70,2018-11-20,Donation,,1R42280980328120W,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1613.43,2018-11-23,Membership donation,,ch_1DZY6XFFUnJJfAClWhFIrNrl,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-21.68,-17.37,-0.47,-17.84,1595.59,2018-12-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.31,-0.31,-11.62,1583.97,2018-12-01,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1588.70,2018-12-09,Membership donation,,ch_1DfLV4FFUnJJfAClsfHUkR3z,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1593.43,2018-12-13,Membership donation,,ch_1DgnTKFFUnJJfAClFQXJ2SHw,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1617.88,2018-12-13,Membership donation,,ch_1DgnTHFFUnJJfAClVSgyFD1N,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1622.51,2018-12-20,Donation,,5DT506488S321281A,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1624.72,2018-12-20,Donation,,9FA63385NJ066790D,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1629.45,2018-12-23,Membership donation,,ch_1DkQOiFFUnJJfACl1nPMEpsB,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-20.87,-16.40,-0.45,-16.85,1612.60,2019-01-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.36,-0.31,-11.67,1600.93,2019-01-01,Discourse server hosting,81161600,,F,office costs,,
+,,GANDI International,https://opencorporates.com/companies/lu/B173775,,GBP,,-13.86,0.00,-13.86,1587.07,2019-01-02,Domain registration,,2019010200670,A,office costs,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1591.80,2019-01-09,Membership donation,,ch_1DqaT4FFUnJJfACl5sCmqOYI,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1596.53,2019-01-13,Membership donation,,ch_1Ds2RJFFUnJJfAClGrQIZs8h,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1620.98,2019-01-13,Membership donation,,ch_1Ds2RFFFUnJJfAClcZmOBiqm,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1623.19,2019-01-20,Donation,,4MH01582JS486590L,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1627.82,2019-01-20,Donation,,43U70028VK246162X,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1632.55,2019-01-23,Membership donation,,ch_1Dveu8FFUnJJfACl7o5RvzkB,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-26.87,-20.94,-0.57,-21.51,1611.04,2019-02-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.04,-0.30,-11.34,1599.70,2019-02-01,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1604.43,2019-02-09,Membership donation,,ch_1E1p4XFFUnJJfAClymshorx9,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1609.16,2019-02-13,Membership donation,,ch_1E3H2tFFUnJJfAClChtiQRcN,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1633.61,2019-02-13,Membership donation,,ch_1E3H2oFFUnJJfAClW0yocOir,,donation,,
+,fc945f07cc,,,Stripe,GBP,,5.00,-0.27,4.73,1638.34,2019-02-18,Membership donation,,ch_1E59ZjFFUnJJfACltU6JL9g4,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1642.97,2019-02-20,Donation,,2C14139966867515M,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1645.18,2019-02-20,Donation,,9CD03753TT433452H,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1649.91,2019-02-23,Membership donation,,ch_1E6tyTFFUnJJfAClxMAa1gPN,,donation,,
+,,Heroku,https://opencorporates.com/companies/us_de/4426449,,USD,-33.32,-25.62,-0.70,-26.32,1623.59,2019-03-01,Heroku server hosting,81161600,,F,office costs,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-10.93,-0.30,-11.23,1612.36,2019-03-01,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1617.09,2019-03-09,Membership donation,,ch_1EByMEFFUnJJfAClgqyLza6m,,donation,,
+,,GANDI International,https://opencorporates.com/companies/lu/B173775,,GBP,,-34.80,0.00,-34.80,1582.29,2019-03-11,Domain registration,,2019031100584,A,office costs,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1587.02,2019-03-13,Membership donation,,ch_1EDQKQFFUnJJfACld85zvljc,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1611.47,2019-03-13,Membership donation,,ch_1EDQKNFFUnJJfAClndoxHhRA,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1616.10,2019-03-20,Donation,,68U84200CR6511627,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1618.31,2019-03-20,Donation,,93T4023307493283X,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1623.04,2019-03-23,Membership donation,,ch_1EH3FpFFUnJJfACl85by6QEs,,donation,,
+,,"Digital Ocean, Inc.",https://opencorporates.com/companies/us_ny/4230996,,USD,-14.40,-11.08,-0.30,-11.38,1611.66,2019-04-01,Discourse server hosting,81161600,,F,office costs,,
+James Smith,a78599e307,,,Stripe,GBP,,5.00,-0.27,4.73,1616.39,2019-04-09,Membership donation,,ch_1ENCS4FFUnJJfAClAwhF52z7,,donation,,
+Laura James,1d50ab6207,,,Stripe,GBP,,5.00,-0.27,4.73,1621.12,2019-04-13,Membership donation,,ch_1EOeQiFFUnJJfACl8qjMAzFy,,donation,,
+Michael Dales,c8ed107810,,,Stripe,GBP,,25.00,-0.55,24.45,1645.57,2019-04-13,Membership donation,,ch_1EOeQeFFUnJJfAClHZ0PAp4F,,donation,,
+Graham Lally,4741cb2621,,,Paypal,GBP,,2.5,-0.29,2.21,1647.78,2019-04-20,Donation,,63F440829D401340X,,donation,,
+Laura James,1d50ab6207,,,Paypal,GBP,,5,-0.37,4.63,1652.41,2019-04-20,Donation,,1CV86903VH158041J,,donation,,
+,320a430836,,,Stripe,GBP,,5.00,-0.27,4.73,1657.14,2019-04-23,Membership donation,,ch_1ESGwHFFUnJJfACl5L4yvxOp,,donation,,
