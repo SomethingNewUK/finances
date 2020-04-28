@@ -3,3 +3,4 @@ sudo: false
 cache: bundler
 rvm:
   - 2.7.1
+script: cid validate
